@@ -1,0 +1,117 @@
+# F Wolff <friedel@translate.org.za>, 2019.
+# Friedel Wolff <friedel@translate.org.za>, 2019. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"PO-Revision-Date: 2019-06-13 05:31-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: translate-discuss-af@lists.sourceforge.net\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Zanata 4.6.2\n"
+"X-Project-Style: gnome\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr ""
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr ""
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "j"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "Stoor uitsondering"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "’n Onbekende fout het plaasgevind."
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "Rapporteer fout"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr ""
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "Sluit af"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "Ontfout"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "Wat wil u nou doen?"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "Maak asb. u keuse uit bostaande: "
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "Druk ENTER om voort te gaan"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "Wil u definitief afsluit? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Sluit af"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"Hierdie program het ’n onbekende fout teëgekom. Rapporteer\n"
+"gerus die fout hieronder of sluit die program af."
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "_Rapporteer fout"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "_Sluit af"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "Die afvoer hieronder help dalk om die oorsaak van die fout te bepaal:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "“Ontfout” neem u dalk na tty1."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "Ont_fout"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "Meer _inligting..."
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "Geen verdere inligting beskikbaar nie."

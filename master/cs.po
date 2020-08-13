@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# zdenek <chmelarz@gmail.com>, 2014
+# Jan Varta <jan.varta@atlas.cz>, 2011-2012
+# vpodzime <vpodzime@redhat.com>, 2013
+# vpodzime <vpodzime@redhat.com>, 2012
+# Martin Kolman <mkolman@redhat.com>, 2015. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"PO-Revision-Date: 2015-05-14 08:34-0400\n"
+"Last-Translator: Martin Kolman <mkolman@redhat.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/python-meh/language/cs/)\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr ""
+"Použijte příkaz 'continue' pro ukončení debuggeru a návrat do hlavní nabídky"
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr "Pro návrat do hlavní nabídky ukončete shell"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "a"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "Uložit výjimku"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "Vyskytla se neznámá chyba"
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "Nahlásit chybu"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr "Spustit shell"
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "Ukončit"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "Debug"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "Jak chcete pokračovat?"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "Vyberte jednu z výše uvedených voleb:"
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "Stiskněte ENTER pro pokračování"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "Opravdu chcete ukončit? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Konec"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"Program vyvolal neznámou chybu. Níže můžete\n"
+"oznámit chybu, nebo ukončit program."
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "Nahlásit _bug"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "U_končit"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "Níže uvedený výstup může pomoci určit problém:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "'Debug' vás může přepnout na tty1."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_Debugovat"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "Více _informací..."
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "Nejsou dostupné žádné další informace."
