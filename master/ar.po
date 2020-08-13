@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# Mosaab Alzoubi <moceap@hotmail.com>, 2013
+# Munzir Taha <munzirtaha@gmail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"PO-Revision-Date: 2015-01-14 07:15-0500\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/python-meh/language/ar/)\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr ""
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr ""
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "y"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "حفظ الاستثناء"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "حصل خطأ غير معروف"
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "أبلغ عن العلة"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr ""
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "اخرج"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "إصلاح"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "هل ترغب بذلك الآن ؟"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "أدخل خيارًا من أعلاه رجاءً:"
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "اضغط مفتاح الإدخال للاستمرار"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "هل أنت متأكد من رغبتك بالخروج ؟ [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_خروج"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"حدث خطأ غير معروف في هذا البرنامج. بإمكانك التبليغ\n"
+"عن العلة أو الخروج من البرنامج."
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "_أبلغ عن علة"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "_اخرج"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "قد تفيدك المعلومات أدناه في تحديد الخلل:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "قد يأخذك 'الإصلاح إلى tty1."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_أصلح"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "معلومات _إضافية..."
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "لا تتوفر معلومات إضافية."

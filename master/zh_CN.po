@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Alick Zhao <alick9188@gmail.com>, 2012
+# Christopher Meng <cickumqt@gmail.com>, 2013
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# Leah Liu <lliu@redhat.com>, 2009
+# pingman <pingman@fedoraproject.org>, 2009
+# zhouxiaobo <zhouxiaobo.500@gmail.com>, 2015. #zanata
+# Leah Liu <lliu@redhat.com>, 2016. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"PO-Revision-Date: 2018-08-23 06:24-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/python-meh/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr "使用 'continue' 命令退出 debugger 并返回主菜单"
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr "退出 shell 返回主菜单"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "y"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "保存例外"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "发生一个未知错误"
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "报告 Bug"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr "启动 shell"
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "退出"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "调试"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "您现在想要做什么？"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "请根据上方信息进行选择："
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "按回车键继续"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "确定要退出吗？ [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "退出(_E)"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"程序遇到了一个未知错误。您可能\n"
+"需要报告下面的这个 bug 或者退出程序。"
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "报告 Bug(_R)"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "下面输出可能有助于找出错误原因："
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "'Debug' 可能会让您进入 tty1。"
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "调试(_D)"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "更多信息...(_i)"
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "没有额外信息可以提供。"
