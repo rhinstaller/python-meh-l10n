@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# hpeters <hpeters@redhat.com>, 2009
+# Jens <jensm@fedoraproject.org>, 2009
+# Roman Spirgi <bigant@fedoraproject.org>, 2012-2013
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-20 14:48+0200\n"
+"PO-Revision-Date: 2015-01-14 07:15-0500\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/python-meh/language/de/)\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:70
+msgid "y"
+msgstr "j"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:73
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:140
+msgid "Save exception"
+msgstr "Ausnahme sichern"
+
+#: ../meh/ui/text.py:153 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "Ein unbekannter Fehler ist aufgetreten"
+
+#: ../meh/ui/text.py:156
+msgid "Report Bug"
+msgstr "Fehler melden"
+
+#: ../meh/ui/text.py:157
+msgid "Debug"
+msgstr "Fehlerdiagnose"
+
+#: ../meh/ui/text.py:158
+msgid "Quit"
+msgstr "Beenden"
+
+#: ../meh/ui/text.py:163
+msgid "What do you want to do now?"
+msgstr "Was möchten Sie jetzt tun?"
+
+#: ../meh/ui/text.py:171
+msgid "Please make your choice from above: "
+msgstr "Bitte treffen Sie Ihre Wahl:"
+
+#: ../meh/ui/text.py:189
+msgid "Hit ENTER to continue"
+msgstr "Eingabetaste drücken, um fortzufahren"
+
+#: ../meh/ui/text.py:203
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "Möchten Sie wirklich beenden? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:150
+msgid "_Exit"
+msgstr "_Beenden"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"Dieses Programm ist auf einen unbekannten Fehler gestoßen. \n"
+"Sie können den Fehler melden oder das Programm beenden."
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "_Fehler melden"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "_Beenden"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "Die nachfolgende Ausgabe könnte bei der Fehlersuche helfen:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "'Debug' könnte zu tty1 verweisen."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_Debug"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "Mehr _Info..."
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "Keine zusätzlichen Informationen vorhanden."

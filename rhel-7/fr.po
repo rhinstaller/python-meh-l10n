@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# dominique bribanick <chepioq@gmail.com>, 2012-2013
+# Jérôme Fenal <jfenal@gmail.com>, 2012-2013
+# Sam Friedmann <sam.friedmann@redhat.com>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-20 14:48+0200\n"
+"PO-Revision-Date: 2015-01-14 07:16-0500\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/python-meh/language/fr/)\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:70
+msgid "y"
+msgstr "o"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:73
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:140
+msgid "Save exception"
+msgstr "Enregistrer l'exception"
+
+#: ../meh/ui/text.py:153 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "Une erreur inconnue s'est produite"
+
+#: ../meh/ui/text.py:156
+msgid "Report Bug"
+msgstr "Rapporter le bug"
+
+#: ../meh/ui/text.py:157
+msgid "Debug"
+msgstr "Déboguer"
+
+#: ../meh/ui/text.py:158
+msgid "Quit"
+msgstr "Quitter"
+
+#: ../meh/ui/text.py:163
+msgid "What do you want to do now?"
+msgstr "Que voulez-vous faire maintenant ?"
+
+#: ../meh/ui/text.py:171
+msgid "Please make your choice from above: "
+msgstr "Faites votre choix parmi :"
+
+#: ../meh/ui/text.py:189
+msgid "Hit ENTER to continue"
+msgstr "Appuyez sur Entrée pour continuer"
+
+#: ../meh/ui/text.py:203
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "Êtes-vous sûr(e) de vouloir quitter ? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:150
+msgid "_Exit"
+msgstr "_Fermer"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"Ce programme a rencontré une erreur inconnue. Vous pouvez rapporter cette "
+"anomalie ou quitter le programme. "
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "_Rapporter le bug"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "_Quitter"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr ""
+"La sortie ci-dessous peut vous permettre de déterminer la cause de l'erreur "
+":"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "« Debug » peut vous amener sur le tty1."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_Débugger"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "Plus d'_infos..."
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "Aucune information complémentaire disponible"
