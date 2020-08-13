@@ -10,20 +10,22 @@
 # Onur Baysan <onurbaysan@gmail.com>, 2011
 # Altan Unsal <altanunsal@gmail.com>, 2016. #zanata
 # Serdar Sağlam <teknomobil@msn.com>, 2019. #zanata
+# Oğuz Ersen <oguzersen@protonmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-23 18:41+0200\n"
-"PO-Revision-Date: 2019-05-10 11:38-0400\n"
-"Last-Translator: Serdar Sağlam <teknomobil@msn.com>\n"
-"Language-Team: Turkish (http://www.transifex.com/projects/p/python-meh/language/tr/)\n"
+"PO-Revision-Date: 2020-08-13 15:23+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
+"python-meh/master/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #: ../meh/handler.py:195
 msgid ""
@@ -51,7 +53,7 @@ msgstr "İstisnayı kaydet"
 
 #: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
-msgstr "Bilinmeyen bir hata meydana geldi."
+msgstr "Bilinmeyen bir hata meydana geldi"
 
 #: ../meh/ui/text.py:161
 msgid "Report Bug"
@@ -75,7 +77,7 @@ msgstr "Ne yapmak istiyorsunuz?"
 
 #: ../meh/ui/text.py:181
 msgid "Please make your choice from above: "
-msgstr "Lütfen yukarıdan seçiminizi yapın:"
+msgstr "Lütfen yukarıdan seçiminizi yapın: "
 
 #: ../meh/ui/text.py:199
 msgid "Hit ENTER to continue"
@@ -108,11 +110,11 @@ msgstr "_Çık"
 
 #: tmp/exception-dialog.glade.h:6
 msgid "The output below may help determine the cause of the error:"
-msgstr "Aşağıdaki çıktı hatayı tespit etmenizde yardımcı olabilir."
+msgstr "Aşağıdaki çıktı hatayı tespit etmenizde yardımcı olabilir:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr "'Hata ayıklayıcı' sizi tty1'e götürebilir"
+msgstr "'Debug' sizi tty1'e götürebilir."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
