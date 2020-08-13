@@ -17,9 +17,7 @@ msgstr ""
 #: ../meh/handler.py:195
 msgid ""
 "Use 'continue' command to quit the debugger and get back to the main menu"
-msgstr ""
-"ប្រើប្រាស់ បញ្ជា 'continue' ដើម្បីចាកចេញពីការស្វែងរកកំហុស "
-"និងត្រឡប់ទៅកាន់ម៉ឺនុយដើម"
+msgstr "ប្រើប្រាស់ បញ្ជា 'continue' ដើម្បីចាកចេញពីការស្វែងរកកំហុស និងត្រឡប់ទៅកាន់ម៉ឺនុយដើម"
 
 #: ../meh/handler.py:211
 msgid "Exit the shell to get back to the main menu"
