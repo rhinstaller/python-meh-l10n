@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# Kris Thomsen <lakristho@gmail.com>, 2009,2012-2013
+# scootergrisen <scootergrisen@gmail.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-10 20:38+0100\n"
+"PO-Revision-Date: 2017-04-24 09:52-0400\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"Language-Team: Danish (http://www.transifex.com/projects/p/python-meh/language/da/)\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr ""
+"Brug kommandoen 'continue' for at forlade fejlretteren og vende tilbage til "
+"hovedmenuen"
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr "Forlad skallen for at vende tilbage til hovedmenuen"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "j"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "Gem undtagelse"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "En ukendt fejl er opstået"
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "Rapportér fejl"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr "Kør skal"
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "Afslut"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "Fejlsøgning"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "Hvad vil du gøre nu?"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "Foretag venligst dit valg ovenfor: "
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "Tryk på ENTER for at fortsætte"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "Er du sikker på, at du vil forlade? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Afslut"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"Dette program har opdaget en ukendt fejl. Du kan rapportere\n"
+" fejlen nedenfor eller afslutte programmet."
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "_Rapportér fejl"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "_Afslut"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr ""
+"Outputtet nedenfor kan måske hjælpe med at bestemme grunden til fejlen:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "'Fejlret' kan tage dig til tty1."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_Fejlsøg"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "Mere _info..."
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "Ingen yderligere info tilgængelig."
