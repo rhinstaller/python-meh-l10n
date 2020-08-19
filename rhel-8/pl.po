@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# Piotr Drąg <piotrdrag@gmail.com>, 2009,2012-2014
+# Piotr Drąg <piotrdrag@gmail.com>, 2015. #zanata
+# Piotr Drąg <piotrdrag@gmail.com>, 2016. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-10 20:38+0100\n"
+"PO-Revision-Date: 2016-09-01 09:37-0400\n"
+"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
+"Language-Team: Polish (http://www.transifex.com/projects/p/python-meh/language/pl/)\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr ""
+"Polecenie „continue” kończy działanie debugera i wraca do głównego menu"
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr "Należy zakończyć działanie powłoki, aby wrócić do głównego menu"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "t"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "Zapisz wyjątek"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "Wystąpił nieznany błąd"
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "Zgłoś błąd"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr "Uruchom powłokę"
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "Zakończ"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "Debuguj"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "Co zrobić teraz?"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "Proszę wybrać jedno z:"
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "Naciśnięcie klawisza Enter kontynuuje"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "Na pewno zakończyć? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "Za_kończ"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"W tym programie wystąpił nieznany błąd. Można\n"
+"go zgłosić lub zakończyć działanie programu."
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "_Zgłoś błąd"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "Za_kończ"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "Poniższe informacje mogą pomóc ustalić przyczynę błędu:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "Kliknięcie przycisku „Debuguj” może spowodować przełączenie na TTY1."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_Debuguj"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "_Więcej informacji…"
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "Brak dodatkowych informacji."

@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# Igor Pires Soares <igor@projetofedora.org>, 2009
+# Marcelo Barbosa <firemanxbr@fedoraproject.org>, 2014
+# Marina Vieira <djparanoiaprod@gmail.com>, 2012
+# Daniel Lara <danniel@fedoraproject.org>, 2016. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-10 20:38+0100\n"
+"PO-Revision-Date: 2018-08-23 06:24-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/python-meh/language/pt_BR/)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr ""
+"Use o comando 'continue' para sair do depurador e voltar ao menu principal"
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr "Sair do shell para voltar ao menu principal"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "y"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "Exceção Salva"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "Um erro desconhecido ocorreu"
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "Reportar Bug"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr "Executar Shell"
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "Sair"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "Depurar"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "O que você quer fazer agora?"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "Por favor, faça a sua escolha de cima:"
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "Pressione ENTER para continuar"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "Tem certeza de que deseja sair? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Sair"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"Este programa encontrou um erro desconhecido. você pode\n"
+"reportar o bug abaixo ou sair do programa."
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "_Reportar Bug"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "_Sair"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "A saída a abaixo pode ajudar a determinar a causa do erro:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "'Depurar' pode levá-lo para tty1."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_Depurar"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "Mais _informação..."
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "Sem informação adicional disponível."
