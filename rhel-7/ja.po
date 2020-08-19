@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# hyuugabaru <hyu_gabaru@yahoo.co.jp>, 2009
+# Tomoyuki KATO <tomo@dream.daynight.jp>, 2012-2013
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-20 14:48+0200\n"
+"PO-Revision-Date: 2015-01-14 07:16-0500\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/python-meh/language/ja/)\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:70
+msgid "y"
+msgstr "y"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:73
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:140
+msgid "Save exception"
+msgstr "例外を保存"
+
+#: ../meh/ui/text.py:153 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "未知のエラーが発生しました"
+
+#: ../meh/ui/text.py:156
+msgid "Report Bug"
+msgstr "バグを報告"
+
+#: ../meh/ui/text.py:157
+msgid "Debug"
+msgstr "デバッグ"
+
+#: ../meh/ui/text.py:158
+msgid "Quit"
+msgstr "終了"
+
+#: ../meh/ui/text.py:163
+msgid "What do you want to do now?"
+msgstr "今すぐ実行したいですか?"
+
+#: ../meh/ui/text.py:171
+msgid "Please make your choice from above: "
+msgstr "上の中から選択してください:"
+
+#: ../meh/ui/text.py:189
+msgid "Hit ENTER to continue"
+msgstr "続けるには ENTER を押してください"
+
+#: ../meh/ui/text.py:203
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "本当に終了しますか? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:150
+msgid "_Exit"
+msgstr "終了(_E)"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"このプログラムは未知のエラーが発生しました。\n"
+"以下のバグを報告する、またはプログラムを終了することができます。"
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "バグの報告(_R)"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "終了(_Q)"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "以下の出力はエラーの原因を特定する手助けになるかもしれません:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "'デバッグ' により tty1 に移動します。"
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "デバッグ(_D)"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "詳細...(_I)"
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "利用可能な追加情報がありません。"
