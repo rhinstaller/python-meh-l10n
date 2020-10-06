@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-10 20:38+0100\n"
-"PO-Revision-Date: 2020-08-20 15:29+0000\n"
+"PO-Revision-Date: 2020-10-07 20:30+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "python-meh/rhel-8/tr/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 4.2.2\n"
 
 #: ../meh/handler.py:195
 msgid ""
@@ -56,7 +56,7 @@ msgstr "Bilinmeyen bir hata meydana geldi"
 
 #: ../meh/ui/text.py:161
 msgid "Report Bug"
-msgstr "Hata Raporu Gönder"
+msgstr "Hatayı Bildir"
 
 #: ../meh/ui/text.py:162
 msgid "Run shell"
@@ -96,20 +96,20 @@ msgid ""
 "This program has encountered an unknown error. You may\n"
 "report the bug below or quit the program."
 msgstr ""
-"Bu programda bilinmeyen bir hata meydana geldi. Bunu aşağıya rapor edebilir\n"
-"veya programdan çıkabilirsiniz."
+"Bu program bilinmeyen bir hatayla karşılaştı. Aşağıda hatayı\n"
+"bildirebilir veya programdan çıkabilirsiniz."
 
 #: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
-msgstr "_Hatayı rapor et"
+msgstr "_Hatayı Bildir"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
-msgstr "_Çık"
+msgstr "_Çıkış"
 
 #: tmp/exception-dialog.glade.h:6
 msgid "The output below may help determine the cause of the error:"
-msgstr "Aşağıdaki çıktı hatayı tespit etmenizde yardımcı olabilir:"
+msgstr "Aşağıdaki çıktı, hatanın nedenini belirlemeye yardımcı olabilir:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
@@ -125,4 +125,4 @@ msgstr "Daha fazla _bilgi..."
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr "Bunun hakkında fazladan bir bilgi yoktur."
+msgstr "Bunun hakkında ek bilgi yok."
