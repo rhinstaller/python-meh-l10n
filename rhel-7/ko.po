@@ -6,102 +6,106 @@
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # eukim <eukim@redhat.com>, 2009
 # Martin Kolman <mkolman@redhat.com>, 2015. #zanata
+# simmon <simmon@nplob.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 14:48+0200\n"
-"PO-Revision-Date: 2015-07-20 10:28-0400\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Korean (http://www.transifex.com/projects/p/python-meh/language/ko/)\n"
+"PO-Revision-Date: 2021-03-13 14:01+0000\n"
+"Last-Translator: simmon <simmon@nplob.com>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"python-meh/rhel-7/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:70
 msgid "y"
-msgstr ""
+msgstr "y"
 
 #. short (one-char) answer meaning "no"
 #: ../meh/ui/text.py:73
 msgid "n"
-msgstr ""
+msgstr "n"
 
 #: ../meh/ui/text.py:140
 msgid "Save exception"
-msgstr ""
+msgstr "예외를 저장"
 
 #: ../meh/ui/text.py:153 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
-msgstr ""
+msgstr "알 수 없는 오류가 발생했습니다"
 
 #: ../meh/ui/text.py:156
 msgid "Report Bug"
-msgstr ""
+msgstr "결점 보고"
 
 #: ../meh/ui/text.py:157
 msgid "Debug"
-msgstr ""
+msgstr "디버그"
 
 #: ../meh/ui/text.py:158
 msgid "Quit"
-msgstr ""
+msgstr "종료"
 
 #: ../meh/ui/text.py:163
 msgid "What do you want to do now?"
-msgstr ""
+msgstr "지금 무엇을 실행하시겠습니까?"
 
 #: ../meh/ui/text.py:171
 msgid "Please make your choice from above: "
-msgstr ""
+msgstr "위의 항목 중 하나를 선택하십시오: "
 
 #: ../meh/ui/text.py:189
 msgid "Hit ENTER to continue"
-msgstr ""
+msgstr "계속 진행하려면 ENTER를 누르십시오"
 
 #: ../meh/ui/text.py:203
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
-msgstr ""
+msgstr "정말로 종료하시겠습니까? [%(yes)s/%(no)s]"
 
 #: ../meh/ui/gui.py:150
 msgid "_Exit"
-msgstr "종료(_E)  "
+msgstr "_종료"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
 "This program has encountered an unknown error. You may\n"
 "report the bug below or quit the program."
 msgstr ""
+"프로그램에서 알 수 없는 오류가 발생했습니다. 다음의 버그를 보고하거나\n"
+"프로그램을 종료 할 수 있습니다."
 
 #: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
-msgstr ""
+msgstr "_결점 보고"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
-msgstr ""
+msgstr "_종료"
 
 #: tmp/exception-dialog.glade.h:6
 msgid "The output below may help determine the cause of the error:"
-msgstr ""
+msgstr "다음 출력값은 오류의 원인을 파악하는데 도움이 될 수 있습니다:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr ""
+msgstr "'디버깅'에 의해 tty1로 이동합니다."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
-msgstr ""
+msgstr "_디버깅"
 
 #: tmp/exception-dialog.glade.h:9
 msgid "More _info..."
-msgstr ""
+msgstr "자세한_정보..."
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr ""
+msgstr "사용 가능한 추가 정보가 없습니다."
