@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-10 20:38+0100\n"
-"PO-Revision-Date: 2021-03-13 14:01+0000\n"
+"PO-Revision-Date: 2021-03-21 07:01+0000\n"
 "Last-Translator: simmon <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "python-meh/rhel-8/ko/>\n"
@@ -115,7 +115,7 @@ msgstr "'디버깅'에 의해 tty1로 이동합니다."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
-msgstr "_디버깅"
+msgstr "_디버그"
 
 #: tmp/exception-dialog.glade.h:9
 msgid "More _info..."
