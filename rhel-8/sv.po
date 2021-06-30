@@ -8,13 +8,14 @@
 # fedoratrans <fedoratrans@gmail.com>, 2009
 # Göran Uddeborg <goeran@uddeborg.se>, 2015. #zanata
 # Luna Jernberg <bittin@reimu.nl>, 2020.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-10 20:38+0100\n"
-"PO-Revision-Date: 2020-12-16 10:36+0000\n"
-"Last-Translator: Luna Jernberg <bittin@reimu.nl>\n"
+"PO-Revision-Date: 2021-07-01 13:04+0000\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/"
 "python-meh/rhel-8/sv/>\n"
 "Language: sv\n"
@@ -22,13 +23,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 4.7.1\n"
 
 #: ../meh/handler.py:195
 msgid ""
 "Use 'continue' command to quit the debugger and get back to the main menu"
 msgstr ""
-"Använd kommandot ”continue” för att avluta felsökaren och gå tillbaka till "
+"Använd kommandot ”continue” för att avsluta felsökaren och gå tillbaka till "
 "huvudmenyn"
 
 #: ../meh/handler.py:211
