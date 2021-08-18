@@ -7,13 +7,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-10 20:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-08-19 07:04+0000\n"
+"Last-Translator: Hela Basa <r45xveza@pm.me>\n"
+"Language-Team: Sinhala <https://translate.fedoraproject.org/projects/"
+"python-meh/rhel-8/si/>\n"
 "Language: si\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #: ../meh/handler.py:195
 msgid ""
@@ -52,7 +55,7 @@ msgstr ""
 
 #: ../meh/ui/text.py:163
 msgid "Quit"
-msgstr ""
+msgstr "ඉවත් වන්න"
 
 #: ../meh/ui/text.py:168
 msgid "Debug"
@@ -77,7 +80,7 @@ msgstr ""
 
 #: ../meh/ui/gui.py:176
 msgid "_Exit"
-msgstr ""
+msgstr "පිටවන්න"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
