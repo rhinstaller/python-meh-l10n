@@ -1,0 +1,115 @@
+# Kuylim Tith <kuylim.tith@gmail.com>, 2015. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"PO-Revision-Date: 2015-11-01 12:26-0400\n"
+"Last-Translator: Kuylim Tith <kuylim.tith@gmail.com>\n"
+"Language-Team: Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: Zanata 4.6.2\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr "ប្រើប្រាស់ បញ្ជា 'continue' ដើម្បីចាកចេញពីការស្វែងរកកំហុស និងត្រឡប់ទៅកាន់ម៉ឺនុយដើម"
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr "ចាកចេញពីសែលដើម្បីត្រឡប់ទៅកាន់ម៉ឺនុយដើម"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "y (យល់ព្រម)"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "n (មិនយល់ព្រម)"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "រក្សាទុកកំហុស"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "មានកំហុសមិនស្គាល់មួយបានកើតឡើង"
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "រាយការណ៍កំហុស"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr "ដំណើរការសែល"
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "ចាកចេញ"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "ស្វែងរកកំហុស"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "តើអ្នកចង់ធ្វើអ្វីនៅពេលឥឡូវនេះ?"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "សូមធ្វើការរើសយកជំរើសខាងលើ:"
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "វាយ ENTER ដើម្បីបន្ដ"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "តើអ្នកប្រាកដទេថានឹងចាកចេញ? [%(បាទ)s/%(ទេ)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Exit"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"កម្មវិធីនេះជួបនឹងកំហុសមិនស្គាល់មួយ ។ អ្នកអាច\n"
+"រាយការណ៍កំហុសខាងក្រោម ឬ ចាកចេញពីកម្មវិធី ។"
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "_Report Bug"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "_Quit"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "ការបង្ហាញខាងក្រោមអាចជួយកំណត់ បុព្វហេតុនៃកំហុស:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "'Debug' អាចយកអ្នកទៅកាន់ tty1 ។"
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_Debug"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "ព័ត៌មានបន្ថែម..."
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "មិនមានព័ត៌មានបន្លែមទៀតនៅឡើយទេ ។"

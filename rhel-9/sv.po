@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# Göran Uddeborg <goeran@uddeborg.se>, 2010,2012-2013
+# fedoratrans <fedoratrans@gmail.com>, 2009
+# Göran Uddeborg <goeran@uddeborg.se>, 2015. #zanata
+# Luna Jernberg <bittin@reimu.nl>, 2020.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"PO-Revision-Date: 2021-07-01 13:04+0000\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
+"Language-Team: Swedish <https://translate.fedoraproject.org/projects/"
+"python-meh/master/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr ""
+"Använd kommandot ”continue” för att avsluta felsökaren och gå tillbaka till "
+"huvudmenyn"
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr "Avsluta skalet för att gå tillbaka till huvudmenyn"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "j"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "n"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "Spara undantag"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "Ett okänt fel har inträffat"
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "Rapportera fel"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr "Kör ett skal"
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "Avsluta"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "Felsök"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "Vad vill du göra nu?"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "Gör ett val från ovan: "
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "Tryck RETUR för att fortsätta"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "Är du säker på att du vill avbryta? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Avbryt"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"Detta program har stött på ett okänt fel. Du kan\n"
+"rapportera felet nedan eller avsluta programmet."
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "_Rapportera fel"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "_Avsluta"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr "Utdata nedan kan hjälpa till att avgöra orsaken till felet:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "”Debug” kan ta dig till tty1."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_Felsök"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "Mer _information …"
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "Ingen ytterligare information tillgänglig."

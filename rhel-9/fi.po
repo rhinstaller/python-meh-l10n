@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# Juhani Numminen <juhaninumminen0@gmail.com>, 2012
+# Juhani Numminen <juhaninumminen0@gmail.com>, 2016. #zanata
+# Toni Rantala <trantalafilo@gmail.com>, 2017. #zanata
+# Jiri Grönroos <jiri.gronroos@iki.fi>, 2018. #zanata
+# Ricky Tigg <ricky.tigg@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"PO-Revision-Date: 2020-12-09 14:36+0000\n"
+"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"python-meh/master/fi/>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.3.2\n"
+
+#: ../meh/handler.py:195
+msgid ""
+"Use 'continue' command to quit the debugger and get back to the main menu"
+msgstr ""
+"Käytä jatka-painiketta lopettaaksesi debuggerin ja palataksesi päävalikkoon"
+
+#: ../meh/handler.py:211
+msgid "Exit the shell to get back to the main menu"
+msgstr "Poistu komentotulkista palataksesi päävalikkoon"
+
+#. short (one-char) answer meaning "yes"
+#: ../meh/ui/text.py:75
+msgid "y"
+msgstr "k"
+
+#. short (one-char) answer meaning "no"
+#: ../meh/ui/text.py:78
+msgid "n"
+msgstr "e"
+
+#: ../meh/ui/text.py:145
+msgid "Save exception"
+msgstr "Tallenna poikkeus"
+
+#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+msgid "An unknown error has occurred"
+msgstr "Tuntematon virhe on tapahtunut"
+
+#: ../meh/ui/text.py:161
+msgid "Report Bug"
+msgstr "Ilmoita ohjelmavirheestä"
+
+#: ../meh/ui/text.py:162
+msgid "Run shell"
+msgstr "Käynnistä komentotulkki"
+
+#: ../meh/ui/text.py:163
+msgid "Quit"
+msgstr "Lopeta"
+
+#: ../meh/ui/text.py:168
+msgid "Debug"
+msgstr "Vianjäljitys"
+
+#: ../meh/ui/text.py:173
+msgid "What do you want to do now?"
+msgstr "Mitä haluat tehdä nyt?"
+
+#: ../meh/ui/text.py:181
+msgid "Please make your choice from above: "
+msgstr "Tee valinta yllä olevista: "
+
+#: ../meh/ui/text.py:199
+msgid "Hit ENTER to continue"
+msgstr "Paina Enter jatkaaksesi"
+
+#: ../meh/ui/text.py:213
+#, python-format
+msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
+msgstr "Haluatko varmasti lopettaa? [%(yes)s/%(no)s]"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Lopeta"
+
+#: tmp/exception-dialog.glade.h:2
+msgid ""
+"This program has encountered an unknown error. You may\n"
+"report the bug below or quit the program."
+msgstr ""
+"Ohjelma on kohdannut tuntemattoman ongelman. Voit ilmoittaa\n"
+"ohjelmavirheestä alta tai sulkea ohjelman."
+
+#: tmp/exception-dialog.glade.h:4
+msgid "_Report Bug"
+msgstr "Ilmoita ohjelmavirheestä"
+
+#: tmp/exception-dialog.glade.h:5
+msgid "_Quit"
+msgstr "Sulje"
+
+#: tmp/exception-dialog.glade.h:6
+msgid "The output below may help determine the cause of the error:"
+msgstr ""
+"Alapuolella oleva tuloste voi auttaa selvittämään mikä virheen aiheutti:"
+
+#: tmp/exception-dialog.glade.h:7
+msgid "'Debug' may take you to tty1."
+msgstr "'Debug' saattaa viedä sinut tty1:een."
+
+#: tmp/exception-dialog.glade.h:8
+msgid "_Debug"
+msgstr "_Vianjäljitys"
+
+#: tmp/exception-dialog.glade.h:9
+msgid "More _info..."
+msgstr "_Lisätietoja..."
+
+#: tmp/exception-dialog.glade.h:10
+msgid "No additional info available."
+msgstr "Lisätietoja ei ole saatavilla."
