@@ -16,10 +16,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-23 18:41+0200\n"
-"PO-Revision-Date: 2021-09-08 09:06+0000\n"
+"PO-Revision-Date: 2021-09-14 08:04+0000\n"
 "Last-Translator: Ludek Janda <ljanda@redhat.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
-"projects/python-meh/master/zh_CN/>\n"
+"projects/python-meh/rhel-9/zh_CN/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -121,7 +121,7 @@ msgstr "调试(_D)"
 
 #: tmp/exception-dialog.glade.h:9
 msgid "More _info..."
-msgstr "更多信息...(_i)"
+msgstr "更多信息(_i)..."
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
