@@ -7,95 +7,101 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 14:48+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-10-19 18:05+0000\n"
+"Last-Translator: Gogo Gogsi <linux.hr@protonmail.com>\n"
+"Language-Team: Croatian <https://translate.fedoraproject.org/projects/"
+"python-meh/rhel-7/hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.8\n"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:70
 msgid "y"
-msgstr ""
+msgstr "d"
 
 #. short (one-char) answer meaning "no"
 #: ../meh/ui/text.py:73
 msgid "n"
-msgstr ""
+msgstr "n"
 
 #: ../meh/ui/text.py:140
 msgid "Save exception"
-msgstr ""
+msgstr "Spremi iznimku"
 
 #: ../meh/ui/text.py:153 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
-msgstr ""
+msgstr "Dogodila se nepoznata greška"
 
 #: ../meh/ui/text.py:156
 msgid "Report Bug"
-msgstr ""
+msgstr "Prijavi grešku"
 
 #: ../meh/ui/text.py:157
 msgid "Debug"
-msgstr ""
+msgstr "Otklanjanje grešaka"
 
 #: ../meh/ui/text.py:158
 msgid "Quit"
-msgstr ""
+msgstr "Zatvori"
 
 #: ../meh/ui/text.py:163
 msgid "What do you want to do now?"
-msgstr ""
+msgstr "Što želite učiniti sada?"
 
 #: ../meh/ui/text.py:171
 msgid "Please make your choice from above: "
-msgstr ""
+msgstr "Odaberite izbor iznad: "
 
 #: ../meh/ui/text.py:189
 msgid "Hit ENTER to continue"
-msgstr ""
+msgstr "Pritisnite ENTER za nastavak"
 
 #: ../meh/ui/text.py:203
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
-msgstr ""
+msgstr "Sigurno želite zatvoriti? [%(yes)s/%(no)s]"
 
 #: ../meh/ui/gui.py:150
 msgid "_Exit"
-msgstr ""
+msgstr "_Zatvori"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
 "This program has encountered an unknown error. You may\n"
 "report the bug below or quit the program."
 msgstr ""
+"Ovaj program je naišao na nepoznatu grešku. Možete\n"
+"prijaviti grešku ispod ili zatvoriti program."
 
 #: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
-msgstr ""
+msgstr "_Prijavi grešku"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
-msgstr ""
+msgstr "_Zatvori"
 
 #: tmp/exception-dialog.glade.h:6
 msgid "The output below may help determine the cause of the error:"
-msgstr ""
+msgstr "Ispis ispod može vam pomoći u otkrivanju uzroka greške:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr ""
+msgstr "'Debug' vas može odvesti u tty1."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
-msgstr ""
+msgstr "_Otklanjanje greške"
 
 #: tmp/exception-dialog.glade.h:9
 msgid "More _info..."
-msgstr ""
+msgstr "Više _informacija..."
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr ""
+msgstr "Nema dostupnih dodatnih informacija."
