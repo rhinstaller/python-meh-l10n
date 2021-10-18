@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"POT-Creation-Date: 2021-09-14 13:41+0200\n"
 "PO-Revision-Date: 2015-11-01 12:26-0400\n"
 "Last-Translator: Kuylim Tith <kuylim.tith@gmail.com>\n"
 "Language-Team: Khmer\n"
@@ -22,6 +22,10 @@ msgstr "ប្រើប្រាស់ បញ្ជា 'continue' ដើម្�
 #: ../meh/handler.py:211
 msgid "Exit the shell to get back to the main menu"
 msgstr "ចាកចេញពីសែលដើម្បីត្រឡប់ទៅកាន់ម៉ឺនុយដើម"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Exit"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:75
@@ -73,10 +77,6 @@ msgstr "វាយ ENTER ដើម្បីបន្ដ"
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "តើអ្នកប្រាកដទេថានឹងចាកចេញ? [%(បាទ)s/%(ទេ)s]"
-
-#: ../meh/ui/gui.py:176
-msgid "_Exit"
-msgstr "_Exit"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""

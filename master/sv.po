@@ -13,11 +13,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"POT-Creation-Date: 2021-09-14 13:41+0200\n"
 "PO-Revision-Date: 2021-07-01 13:04+0000\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
-"Language-Team: Swedish <https://translate.fedoraproject.org/projects/"
-"python-meh/master/sv/>\n"
+"Language-Team: Swedish <https://translate.fedoraproject.org/projects/python-"
+"meh/master/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -35,6 +35,10 @@ msgstr ""
 #: ../meh/handler.py:211
 msgid "Exit the shell to get back to the main menu"
 msgstr "Avsluta skalet för att gå tillbaka till huvudmenyn"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Avbryt"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:75
@@ -86,10 +90,6 @@ msgstr "Tryck RETUR för att fortsätta"
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "Är du säker på att du vill avbryta? [%(yes)s/%(no)s]"
-
-#: ../meh/ui/gui.py:176
-msgid "_Exit"
-msgstr "_Avbryt"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""

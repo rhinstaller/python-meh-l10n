@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"POT-Creation-Date: 2021-09-14 13:41+0200\n"
 "PO-Revision-Date: 2016-09-09 02:41-0400\n"
 "Last-Translator: Anxhela Hyseni <anxhela.hyseni1996@gmail.com>\n"
 "Language-Team: Albanian\n"
@@ -24,6 +24,10 @@ msgstr ""
 #: ../meh/handler.py:211
 msgid "Exit the shell to get back to the main menu"
 msgstr "Dilni nga shell për të vazhduar tek menuja kryesore"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Dilni"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:75
@@ -75,10 +79,6 @@ msgstr "Shtyp ENTER për të vazhduar."
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "Jeni i sigurt se doni të dilni? [%(yes)s/%(no)s]"
-
-#: ../meh/ui/gui.py:176
-msgid "_Exit"
-msgstr "_Dilni"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
