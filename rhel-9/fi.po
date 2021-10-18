@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"POT-Creation-Date: 2021-09-14 13:47+0200\n"
 "PO-Revision-Date: 2020-12-09 14:36+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/python-"
@@ -34,6 +34,10 @@ msgstr ""
 #: ../meh/handler.py:211
 msgid "Exit the shell to get back to the main menu"
 msgstr "Poistu komentotulkista palataksesi päävalikkoon"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Lopeta"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:75
@@ -85,10 +89,6 @@ msgstr "Paina Enter jatkaaksesi"
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "Haluatko varmasti lopettaa? [%(yes)s/%(no)s]"
-
-#: ../meh/ui/gui.py:176
-msgid "_Exit"
-msgstr "_Lopeta"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""

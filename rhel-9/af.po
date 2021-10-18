@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"POT-Creation-Date: 2021-09-14 13:47+0200\n"
 "PO-Revision-Date: 2019-06-13 05:31-0400\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
@@ -24,6 +24,10 @@ msgstr ""
 #: ../meh/handler.py:211
 msgid "Exit the shell to get back to the main menu"
 msgstr ""
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Sluit af"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:75
@@ -75,10 +79,6 @@ msgstr "Druk ENTER om voort te gaan"
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "Wil u definitief afsluit? [%(yes)s/%(no)s]"
-
-#: ../meh/ui/gui.py:176
-msgid "_Exit"
-msgstr "_Sluit af"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""

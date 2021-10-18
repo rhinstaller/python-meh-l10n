@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-23 18:41+0200\n"
+"POT-Creation-Date: 2021-09-14 13:47+0200\n"
 "PO-Revision-Date: 2018-09-06 10:33-0400\n"
 "Last-Translator: Viktar Siarheichyk <veq@fedoraproject.org>\n"
 "Language-Team: Belarusian\n"
@@ -25,6 +25,10 @@ msgstr ""
 #: ../meh/handler.py:211
 msgid "Exit the shell to get back to the main menu"
 msgstr "Выйсці з абалонкі і вярнуцца ў галоўнае меню"
+
+#: ../meh/ui/gui.py:176
+msgid "_Exit"
+msgstr "_Закончыць"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:75
@@ -76,10 +80,6 @@ msgstr "Каб ісці далей, націсніце ENTER"
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "Сапраўды скончыць? [%(yes)s/%(no)s]"
-
-#: ../meh/ui/gui.py:176
-msgid "_Exit"
-msgstr "_Закончыць"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
