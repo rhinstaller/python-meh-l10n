@@ -7,13 +7,14 @@
 # hyuugabaru <hyu_gabaru@yahoo.co.jp>, 2009
 # Tomoyuki KATO <tomo@dream.daynight.jp>, 2012-2013
 # Ludek Janda <ljanda@redhat.com>, 2018. #zanata, 2021.
+# Transtats <suanand@redhat.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-10 20:38+0100\n"
-"PO-Revision-Date: 2021-09-14 08:04+0000\n"
-"Last-Translator: Ludek Janda <ljanda@redhat.com>\n"
+"PO-Revision-Date: 2022-04-11 14:17+0000\n"
+"Last-Translator: Transtats <suanand@redhat.com>\n"
 "Language-Team: Japanese <https://translate.fedoraproject.org/projects/"
 "python-meh/rhel-8/ja/>\n"
 "Language: ja\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: ../meh/handler.py:195
 msgid ""
@@ -52,23 +53,23 @@ msgstr "未知のエラーが発生しました"
 
 #: ../meh/ui/text.py:161
 msgid "Report Bug"
-msgstr "バグを報告"
+msgstr "バグを報告する"
 
 #: ../meh/ui/text.py:162
 msgid "Run shell"
-msgstr "シェルを実行します"
+msgstr "シェルを実行する"
 
 #: ../meh/ui/text.py:163
 msgid "Quit"
-msgstr "終了"
+msgstr "終了する"
 
 #: ../meh/ui/text.py:168
 msgid "Debug"
-msgstr "デバッグ"
+msgstr "デバッグを行う"
 
 #: ../meh/ui/text.py:173
 msgid "What do you want to do now?"
-msgstr "今すぐ実行したいですか?"
+msgstr "どうしますか?"
 
 #: ../meh/ui/text.py:181
 msgid "Please make your choice from above: "
