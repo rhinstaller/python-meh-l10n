@@ -7,95 +7,101 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 14:48+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-08-24 16:19+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
+"python-meh/rhel-7/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13\n"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:70
 msgid "y"
-msgstr ""
+msgstr "y (დიახ)"
 
 #. short (one-char) answer meaning "no"
 #: ../meh/ui/text.py:73
 msgid "n"
-msgstr ""
+msgstr "n (არა)"
 
 #: ../meh/ui/text.py:140
 msgid "Save exception"
-msgstr ""
+msgstr "გამონაკლისის ჩაწერა"
 
 #: ../meh/ui/text.py:153 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
-msgstr ""
+msgstr "ნაპოვნია უცნობი შეცდომა"
 
 #: ../meh/ui/text.py:156
 msgid "Report Bug"
-msgstr ""
+msgstr "შეცდომის ანგარიში"
 
 #: ../meh/ui/text.py:157
 msgid "Debug"
-msgstr ""
+msgstr "გამართვა"
 
 #: ../meh/ui/text.py:158
 msgid "Quit"
-msgstr ""
+msgstr "გასვლა"
 
 #: ../meh/ui/text.py:163
 msgid "What do you want to do now?"
-msgstr ""
+msgstr "რისი გაკეთება გნებავთ ახლა?"
 
 #: ../meh/ui/text.py:171
 msgid "Please make your choice from above: "
-msgstr ""
+msgstr "აირჩიეთ ზემო ჩამონათვალიდან: "
 
 #: ../meh/ui/text.py:189
 msgid "Hit ENTER to continue"
-msgstr ""
+msgstr "გასაგრძელებლად დააჭირეთ ENTER-ს"
 
 #: ../meh/ui/text.py:203
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
-msgstr ""
+msgstr "დარწმუნებული ბრძანდებით, რომ გნებავთ, გახვიდეთ? [%(yes)s/%(no)s]"
 
 #: ../meh/ui/gui.py:150
 msgid "_Exit"
-msgstr ""
+msgstr "_გასვლა"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
 "This program has encountered an unknown error. You may\n"
 "report the bug below or quit the program."
 msgstr ""
+"პროგრამამ უცნობი შეცდომა აღმოაჩინა. შეგიძლიათ ამ შეცდომის შესახებ\n"
+"ანგარიში გადააგზავნოთ, ან გახვიდეთ პროგრამიდან."
 
 #: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
-msgstr ""
+msgstr "_შეცდომის გადაგზავნა"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
-msgstr ""
+msgstr "_გასვლა"
 
 #: tmp/exception-dialog.glade.h:6
 msgid "The output below may help determine the cause of the error:"
 msgstr ""
+"ქვემოთ გამოტანილი ინფორმაცია შეიძლება გამოგადგეთ პრობლემის წყაროს პოვნაში:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr ""
+msgstr "'გამართვა'-ს შეუძლიათ tty1-ზე გადაგიყვანოთ."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
-msgstr ""
+msgstr "_გამართვა"
 
 #: tmp/exception-dialog.glade.h:9
 msgid "More _info..."
-msgstr ""
+msgstr "მეტი _ინფორმაცია..."
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr ""
+msgstr "დამატებითი ინფორმაცია ხელმისაწვდომი არაა."
