@@ -7,13 +7,14 @@
 # eukim <eukim@redhat.com>, 2009
 # Martin Kolman <mkolman@redhat.com>, 2015. #zanata
 # simmon <simmon@nplob.com>, 2021.
+# 김인수 <simmon@nplob.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 14:48+0200\n"
-"PO-Revision-Date: 2021-03-21 07:01+0000\n"
-"Last-Translator: simmon <simmon@nplob.com>\n"
+"PO-Revision-Date: 2022-11-14 09:19+0000\n"
+"Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "python-meh/rhel-7/ko/>\n"
 "Language: ko\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:70
@@ -79,7 +80,7 @@ msgid ""
 "This program has encountered an unknown error. You may\n"
 "report the bug below or quit the program."
 msgstr ""
-"프로그램에서 알 수 없는 오류가 발생했습니다. 다음의 버그를 보고하거나\n"
+"프로그램에서 알 수 없는 오류가 발생했습니다. 다음의 결점을 보고하거나\n"
 "프로그램을 종료 할 수 있습니다."
 
 #: tmp/exception-dialog.glade.h:4
