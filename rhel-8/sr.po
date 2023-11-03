@@ -5,20 +5,23 @@
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Momcilo Medic <medicmomcilo@gmail.com>, 2014
+# Medic Momcilo <momcilo@medic.rs>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-10 20:38+0100\n"
-"PO-Revision-Date: 2015-01-14 07:17-0500\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Serbian (http://www.transifex.com/projects/p/python-meh/language/sr/)\n"
+"PO-Revision-Date: 2023-11-04 18:48+0000\n"
+"Last-Translator: Medic Momcilo <momcilo@medic.rs>\n"
+"Language-Team: Serbian <https://translate.fedoraproject.org/projects/"
+"python-meh/rhel-8/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.1.1\n"
 
 #: ../meh/handler.py:195
 msgid ""
@@ -71,7 +74,7 @@ msgstr "Шта желите да урадите сада?"
 
 #: ../meh/ui/text.py:181
 msgid "Please make your choice from above: "
-msgstr "Молим изаберите нешто од горе понуђених опција:"
+msgstr "Молим изаберите нешто од горе понуђених опција: "
 
 #: ../meh/ui/text.py:199
 msgid "Hit ENTER to continue"
@@ -108,7 +111,7 @@ msgstr "Овај испис може бити од помоћи да се уст
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr "'Отклони бубе' може да вас одведе на tty1"
+msgstr "'Отклони бубе' може да вас одведе на tty1."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
