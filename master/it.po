@@ -11,28 +11,28 @@
 # Luca Ciavatta <luca.ciavatta@gmail.com>, 2017. #zanata
 # Ludek Janda <ljanda@redhat.com>, 2018. #zanata
 # Jiří Konečný <jkonecny@redhat.com>, 2020.
+# Salvatore Cocuzza <info@salvatorecocuzza.it>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-14 13:41+0200\n"
-"PO-Revision-Date: 2020-08-14 16:29+0000\n"
-"Last-Translator: Jiří Konečný <jkonecny@redhat.com>\n"
-"Language-Team: Italian <https://translate.fedoraproject.org/projects/python-"
-"meh/master/it/>\n"
+"PO-Revision-Date: 2024-12-24 03:31+0000\n"
+"Last-Translator: Salvatore Cocuzza <info@salvatorecocuzza.it>\n"
+"Language-Team: Italian <https://translate.fedoraproject.org/projects/"
+"python-meh/master/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 5.9.1\n"
 
 #: ../meh/handler.py:195
-#, fuzzy
 msgid ""
 "Use 'continue' command to quit the debugger and get back to the main menu"
 msgstr ""
-"Utilizzare il comando 'continue' per terminare il debugger e tornare al menu "
+"Utilizza il comando \"continue\" per uscire dal debugger e tornare al menu "
 "principale"
 
 #: ../meh/handler.py:211
@@ -103,9 +103,8 @@ msgstr ""
 "segnalare il bug qui di seguito oppure uscire dal programma."
 
 #: tmp/exception-dialog.glade.h:4
-#, fuzzy
 msgid "_Report Bug"
-msgstr "_Report Bug"
+msgstr "_Segnala Bug"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
