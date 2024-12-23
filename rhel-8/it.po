@@ -10,20 +10,22 @@
 # Alessio Ciregia <alciregi@gmail.com>, 2017. #zanata
 # Luca Ciavatta <luca.ciavatta@gmail.com>, 2017. #zanata
 # Ludek Janda <ljanda@redhat.com>, 2018. #zanata
+# Salvatore Cocuzza <info@salvatorecocuzza.it>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-10 20:38+0100\n"
-"PO-Revision-Date: 2018-08-31 02:16-0400\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Italian (http://www.transifex.com/projects/p/python-meh/language/it/)\n"
+"PO-Revision-Date: 2024-12-24 03:31+0000\n"
+"Last-Translator: Salvatore Cocuzza <info@salvatorecocuzza.it>\n"
+"Language-Team: Italian <https://translate.fedoraproject.org/projects/"
+"python-meh/rhel-8/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9.1\n"
 
 #: ../meh/handler.py:195
 #, fuzzy
@@ -133,4 +135,4 @@ msgstr "Maggiori _informazioni..."
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr "Non sono disponibili informazioni aggiuntive"
+msgstr "Non sono disponibili informazioni aggiuntive."
