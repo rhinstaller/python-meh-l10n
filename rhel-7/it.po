@@ -8,42 +8,44 @@
 # Silvio Pierro <perplesso82@gmail.com>, 2009
 # Silvio Pierro <perplesso82@gmail.com>, 2012
 # Martin Kolman <mkolman@redhat.com>, 2015. #zanata
+# Salvatore Cocuzza <info@salvatorecocuzza.it>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 14:48+0200\n"
-"PO-Revision-Date: 2015-07-20 10:27-0400\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Italian (http://www.transifex.com/projects/p/python-meh/language/it/)\n"
+"PO-Revision-Date: 2024-12-24 03:31+0000\n"
+"Last-Translator: Salvatore Cocuzza <info@salvatorecocuzza.it>\n"
+"Language-Team: Italian <https://translate.fedoraproject.org/projects/"
+"python-meh/rhel-7/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9.1\n"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:70
 msgid "y"
-msgstr ""
+msgstr "s"
 
 #. short (one-char) answer meaning "no"
 #: ../meh/ui/text.py:73
 msgid "n"
-msgstr ""
+msgstr "n"
 
 #: ../meh/ui/text.py:140
 msgid "Save exception"
-msgstr ""
+msgstr "Salvare eccezione"
 
 #: ../meh/ui/text.py:153 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
-msgstr ""
+msgstr "Si è verificato un errore sconosciuto"
 
 #: ../meh/ui/text.py:156
 msgid "Report Bug"
-msgstr ""
+msgstr "Segnalare Bug"
 
 #: ../meh/ui/text.py:157
 msgid "Debug"
@@ -51,24 +53,24 @@ msgstr "Debug"
 
 #: ../meh/ui/text.py:158
 msgid "Quit"
-msgstr ""
+msgstr "Abbandona"
 
 #: ../meh/ui/text.py:163
 msgid "What do you want to do now?"
-msgstr ""
+msgstr "Cosa si desidera fare ora?"
 
 #: ../meh/ui/text.py:171
 msgid "Please make your choice from above: "
-msgstr ""
+msgstr "Scegliere fra quelle sopra: "
 
 #: ../meh/ui/text.py:189
 msgid "Hit ENTER to continue"
-msgstr ""
+msgstr "Premere INVIO per continuare"
 
 #: ../meh/ui/text.py:203
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
-msgstr ""
+msgstr "Sei sicuro di voler uscire? [%(yes)s/%(no)s]"
 
 #: ../meh/ui/gui.py:150
 msgid "_Exit"
@@ -79,31 +81,33 @@ msgid ""
 "This program has encountered an unknown error. You may\n"
 "report the bug below or quit the program."
 msgstr ""
+"Questo programma ha riscontrato diversi errori. È possibile\n"
+"segnalare il bug qui di seguito oppure uscire dal programma."
 
 #: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
-msgstr ""
+msgstr "_Segnala Bug"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
-msgstr ""
+msgstr "_Esci"
 
 #: tmp/exception-dialog.glade.h:6
 msgid "The output below may help determine the cause of the error:"
-msgstr ""
+msgstr "L'output seguente può aiutare a determinare la causa dell'errore:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr ""
+msgstr "'Debug' potrebbe portarti a tty1."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
-msgstr ""
+msgstr "_Debug"
 
 #: tmp/exception-dialog.glade.h:9
 msgid "More _info..."
-msgstr ""
+msgstr "Ulteriori _informazioni..."
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr ""
+msgstr "Non sono disponibili informazioni aggiuntive."
