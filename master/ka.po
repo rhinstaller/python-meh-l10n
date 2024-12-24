@@ -1,22 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2022-08-24 16:19+0000\n"
+"PO-Revision-Date: 2024-12-24 08:10+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
-"Language-Team: Georgian <https://translate.fedoraproject.org/projects/python-"
-"meh/master/ka/>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
+"python-meh/master/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13\n"
+"X-Generator: Weblate 5.9.1\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -30,30 +30,23 @@ msgid "Exit the shell to get back to the main menu"
 msgstr "მთავარ მენიუში დასაბრუნებლად გამოდით გარსიდან"
 
 #: ../meh/ui/gui.py:39
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
 msgstr ""
-"პროგრამამ უცნობი შეცდომა აღმოაჩინა. შეგიძლიათ ამ შეცდომის შესახებ\n"
-"ანგარიში გადააგზავნოთ, ან გახვიდეთ პროგრამიდან."
+"პროგრამამ უცნობი შეცდომა აღმოაჩინა. შეგიძლიათ ამ შეცდომის შესახებ ანგარიში "
+"გადააგზავნოთ, ან გახვიდეთ პროგრამიდან."
 
 #: ../meh/ui/gui.py:43
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error.\n"
 "You may want to consult the documentation for how to gather logs and report "
 "a bug.\n"
 "Or you can quit the program."
 msgstr ""
-"პროგრამამ უცნობი შეცდომა აღმოაჩინა. შეგიძლიათ ამ შეცდომის შესახებ\n"
-"ანგარიში გადააგზავნოთ, ან გახვიდეთ პროგრამიდან."
+"პროგრამამ უცნობი შეცდომა აღმოაჩინა. \n"
+"შეგიძლიათ ამ შეცდომის შესახებ ანგარიში გადააგზავნოთ,\n"
+"ან გახვიდეთ პროგრამიდან."
 
 #: ../meh/ui/gui.py:205
 msgid "_Exit"
