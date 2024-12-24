@@ -11,21 +11,22 @@
 # Altan Unsal <altanunsal@gmail.com>, 2016. #zanata
 # Serdar Sağlam <teknomobil@msn.com>, 2019. #zanata
 # Oğuz Ersen <oguzersen@protonmail.com>, 2020.
+# Oğuz Ersen <oguz@ersen.moe>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2020-10-07 20:30+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
-"Language-Team: Turkish <https://translate.fedoraproject.org/projects/python-"
-"meh/master/tr/>\n"
+"PO-Revision-Date: 2024-12-24 08:10+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
+"python-meh/master/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Weblate 4.2.2\n"
+"X-Generator: Weblate 5.9.1\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -38,30 +39,24 @@ msgid "Exit the shell to get back to the main menu"
 msgstr "Ana menüye dönmek için kabuktan çıkın"
 
 #: ../meh/ui/gui.py:39
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
 msgstr ""
-"Bu program bilinmeyen bir hatayla karşılaştı. Aşağıda hatayı\n"
-"bildirebilir veya programdan çıkabilirsiniz."
+"Bu program bilinmeyen bir hatayla karşılaştı. Aşağıda hatayı bildirebilir "
+"veya programdan çıkabilirsiniz."
 
 #: ../meh/ui/gui.py:43
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error.\n"
 "You may want to consult the documentation for how to gather logs and report "
 "a bug.\n"
 "Or you can quit the program."
 msgstr ""
-"Bu program bilinmeyen bir hatayla karşılaştı. Aşağıda hatayı\n"
-"bildirebilir veya programdan çıkabilirsiniz."
+"Bu program bilinmeyen bir hatayla karşılaştı.\n"
+"Günlükleri nasıl toplayacağınızı ve bir hatayı nasıl bildireceğinizi "
+"öğrenmek için belgelere bakabilirsiniz.\n"
+"Veya programdan çıkabilirsiniz."
 
 #: ../meh/ui/gui.py:205
 msgid "_Exit"
