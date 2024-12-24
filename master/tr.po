@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-14 13:41+0200\n"
+"POT-Creation-Date: 2024-06-04 14:54+0200\n"
 "PO-Revision-Date: 2020-10-07 20:30+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/python-"
@@ -27,103 +27,121 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
 "X-Generator: Weblate 4.2.2\n"
 
-#: ../meh/handler.py:195
+#: ../meh/handler.py:202
 msgid ""
 "Use 'continue' command to quit the debugger and get back to the main menu"
 msgstr ""
 "'continue' komutunu kullanarak hata ayıklayıcıdan çıkın ve ana menüye dönün"
 
-#: ../meh/handler.py:211
+#: ../meh/handler.py:218
 msgid "Exit the shell to get back to the main menu"
 msgstr "Ana menüye dönmek için kabuktan çıkın"
 
-#: ../meh/ui/gui.py:176
+#: ../meh/ui/gui.py:39
+#, fuzzy
+#| msgid ""
+#| "This program has encountered an unknown error. You may\n"
+#| "report the bug below or quit the program."
+msgid ""
+"This program has encountered an unknown error. You may report the bug below "
+"or quit the program."
+msgstr ""
+"Bu program bilinmeyen bir hatayla karşılaştı. Aşağıda hatayı\n"
+"bildirebilir veya programdan çıkabilirsiniz."
+
+#: ../meh/ui/gui.py:43
+#, fuzzy
+#| msgid ""
+#| "This program has encountered an unknown error. You may\n"
+#| "report the bug below or quit the program."
+msgid ""
+"This program has encountered an unknown error.\n"
+"You may want to consult the documentation for how to gather logs and report "
+"a bug.\n"
+"Or you can quit the program."
+msgstr ""
+"Bu program bilinmeyen bir hatayla karşılaştı. Aşağıda hatayı\n"
+"bildirebilir veya programdan çıkabilirsiniz."
+
+#: ../meh/ui/gui.py:205
 msgid "_Exit"
 msgstr "_Çıkış"
 
 #. short (one-char) answer meaning "yes"
-#: ../meh/ui/text.py:75
+#: ../meh/ui/text.py:82
 msgid "y"
 msgstr "e"
 
 #. short (one-char) answer meaning "no"
-#: ../meh/ui/text.py:78
+#: ../meh/ui/text.py:85
 msgid "n"
 msgstr "h"
 
-#: ../meh/ui/text.py:145
+#: ../meh/ui/text.py:152
 msgid "Save exception"
 msgstr "İstisnayı kaydet"
 
-#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+#: ../meh/ui/text.py:165 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
 msgstr "Bilinmeyen bir hata meydana geldi"
 
-#: ../meh/ui/text.py:161
-msgid "Report Bug"
-msgstr "Hatayı Bildir"
-
-#: ../meh/ui/text.py:162
+#: ../meh/ui/text.py:168
 msgid "Run shell"
 msgstr "Kabuğu çalıştır"
 
-#: ../meh/ui/text.py:163
+#: ../meh/ui/text.py:169
 msgid "Quit"
 msgstr "Çık"
 
-#: ../meh/ui/text.py:168
+#: ../meh/ui/text.py:174
 msgid "Debug"
 msgstr "Hata Ayıkla"
 
-#: ../meh/ui/text.py:173
+#: ../meh/ui/text.py:178
+msgid "Report Bug"
+msgstr "Hatayı Bildir"
+
+#: ../meh/ui/text.py:183
 msgid "What do you want to do now?"
 msgstr "Ne yapmak istiyorsunuz?"
 
-#: ../meh/ui/text.py:181
+#: ../meh/ui/text.py:191
 msgid "Please make your choice from above: "
 msgstr "Lütfen yukarıdan seçiminizi yapın: "
 
-#: ../meh/ui/text.py:199
+#: ../meh/ui/text.py:209
 msgid "Hit ENTER to continue"
 msgstr "Devam etmek için ENTER tuşuna basın"
 
-#: ../meh/ui/text.py:213
+#: ../meh/ui/text.py:223
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "Çıkmak istediğinizden emin misiniz? [%(yes)s/%(no)s]"
 
 #: tmp/exception-dialog.glade.h:2
-msgid ""
-"This program has encountered an unknown error. You may\n"
-"report the bug below or quit the program."
-msgstr ""
-"Bu program bilinmeyen bir hatayla karşılaştı. Aşağıda hatayı\n"
-"bildirebilir veya programdan çıkabilirsiniz."
-
-#: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
 msgstr "_Hatayı Bildir"
 
-#: tmp/exception-dialog.glade.h:5
+#: tmp/exception-dialog.glade.h:3
 msgid "_Quit"
 msgstr "_Çıkış"
 
-#: tmp/exception-dialog.glade.h:6
+#: tmp/exception-dialog.glade.h:4
 msgid "The output below may help determine the cause of the error:"
 msgstr "Aşağıdaki çıktı, hatanın nedenini belirlemeye yardımcı olabilir:"
 
-#: tmp/exception-dialog.glade.h:7
+#: tmp/exception-dialog.glade.h:5
 msgid "'Debug' may take you to tty1."
 msgstr "'Debug' sizi tty1'e götürebilir."
 
-#: tmp/exception-dialog.glade.h:8
+#: tmp/exception-dialog.glade.h:6
 msgid "_Debug"
 msgstr "_Ayıkla"
 
-#: tmp/exception-dialog.glade.h:9
+#: tmp/exception-dialog.glade.h:7
 msgid "More _info..."
 msgstr "Daha fazla _bilgi..."
 
-#: tmp/exception-dialog.glade.h:10
+#: tmp/exception-dialog.glade.h:8
 msgid "No additional info available."
 msgstr "Bunun hakkında ek bilgi yok."

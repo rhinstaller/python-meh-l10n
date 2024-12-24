@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-14 13:41+0200\n"
+"POT-Creation-Date: 2024-06-04 14:54+0200\n"
 "PO-Revision-Date: 2021-07-01 13:04+0000\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/python-"
@@ -25,104 +25,122 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
-#: ../meh/handler.py:195
+#: ../meh/handler.py:202
 msgid ""
 "Use 'continue' command to quit the debugger and get back to the main menu"
 msgstr ""
 "Använd kommandot ”continue” för att avsluta felsökaren och gå tillbaka till "
 "huvudmenyn"
 
-#: ../meh/handler.py:211
+#: ../meh/handler.py:218
 msgid "Exit the shell to get back to the main menu"
 msgstr "Avsluta skalet för att gå tillbaka till huvudmenyn"
 
-#: ../meh/ui/gui.py:176
+#: ../meh/ui/gui.py:39
+#, fuzzy
+#| msgid ""
+#| "This program has encountered an unknown error. You may\n"
+#| "report the bug below or quit the program."
+msgid ""
+"This program has encountered an unknown error. You may report the bug below "
+"or quit the program."
+msgstr ""
+"Detta program har stött på ett okänt fel. Du kan\n"
+"rapportera felet nedan eller avsluta programmet."
+
+#: ../meh/ui/gui.py:43
+#, fuzzy
+#| msgid ""
+#| "This program has encountered an unknown error. You may\n"
+#| "report the bug below or quit the program."
+msgid ""
+"This program has encountered an unknown error.\n"
+"You may want to consult the documentation for how to gather logs and report "
+"a bug.\n"
+"Or you can quit the program."
+msgstr ""
+"Detta program har stött på ett okänt fel. Du kan\n"
+"rapportera felet nedan eller avsluta programmet."
+
+#: ../meh/ui/gui.py:205
 msgid "_Exit"
 msgstr "_Avbryt"
 
 #. short (one-char) answer meaning "yes"
-#: ../meh/ui/text.py:75
+#: ../meh/ui/text.py:82
 msgid "y"
 msgstr "j"
 
 #. short (one-char) answer meaning "no"
-#: ../meh/ui/text.py:78
+#: ../meh/ui/text.py:85
 msgid "n"
 msgstr "n"
 
-#: ../meh/ui/text.py:145
+#: ../meh/ui/text.py:152
 msgid "Save exception"
 msgstr "Spara undantag"
 
-#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+#: ../meh/ui/text.py:165 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
 msgstr "Ett okänt fel har inträffat"
 
-#: ../meh/ui/text.py:161
-msgid "Report Bug"
-msgstr "Rapportera fel"
-
-#: ../meh/ui/text.py:162
+#: ../meh/ui/text.py:168
 msgid "Run shell"
 msgstr "Kör ett skal"
 
-#: ../meh/ui/text.py:163
+#: ../meh/ui/text.py:169
 msgid "Quit"
 msgstr "Avsluta"
 
-#: ../meh/ui/text.py:168
+#: ../meh/ui/text.py:174
 msgid "Debug"
 msgstr "Felsök"
 
-#: ../meh/ui/text.py:173
+#: ../meh/ui/text.py:178
+msgid "Report Bug"
+msgstr "Rapportera fel"
+
+#: ../meh/ui/text.py:183
 msgid "What do you want to do now?"
 msgstr "Vad vill du göra nu?"
 
-#: ../meh/ui/text.py:181
+#: ../meh/ui/text.py:191
 msgid "Please make your choice from above: "
 msgstr "Gör ett val från ovan: "
 
-#: ../meh/ui/text.py:199
+#: ../meh/ui/text.py:209
 msgid "Hit ENTER to continue"
 msgstr "Tryck RETUR för att fortsätta"
 
-#: ../meh/ui/text.py:213
+#: ../meh/ui/text.py:223
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "Är du säker på att du vill avbryta? [%(yes)s/%(no)s]"
 
 #: tmp/exception-dialog.glade.h:2
-msgid ""
-"This program has encountered an unknown error. You may\n"
-"report the bug below or quit the program."
-msgstr ""
-"Detta program har stött på ett okänt fel. Du kan\n"
-"rapportera felet nedan eller avsluta programmet."
-
-#: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
 msgstr "_Rapportera fel"
 
-#: tmp/exception-dialog.glade.h:5
+#: tmp/exception-dialog.glade.h:3
 msgid "_Quit"
 msgstr "_Avsluta"
 
-#: tmp/exception-dialog.glade.h:6
+#: tmp/exception-dialog.glade.h:4
 msgid "The output below may help determine the cause of the error:"
 msgstr "Utdata nedan kan hjälpa till att avgöra orsaken till felet:"
 
-#: tmp/exception-dialog.glade.h:7
+#: tmp/exception-dialog.glade.h:5
 msgid "'Debug' may take you to tty1."
 msgstr "”Debug” kan ta dig till tty1."
 
-#: tmp/exception-dialog.glade.h:8
+#: tmp/exception-dialog.glade.h:6
 msgid "_Debug"
 msgstr "_Felsök"
 
-#: tmp/exception-dialog.glade.h:9
+#: tmp/exception-dialog.glade.h:7
 msgid "More _info..."
 msgstr "Mer _information …"
 
-#: tmp/exception-dialog.glade.h:10
+#: tmp/exception-dialog.glade.h:8
 msgid "No additional info available."
 msgstr "Ingen ytterligare information tillgänglig."

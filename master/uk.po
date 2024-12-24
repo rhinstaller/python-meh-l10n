@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-14 13:41+0200\n"
+"POT-Creation-Date: 2024-06-04 14:54+0200\n"
 "PO-Revision-Date: 2015-01-14 07:17-0500\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/python-meh/"
@@ -19,108 +19,126 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Zanata 4.6.2\n"
 
-#: ../meh/handler.py:195
+#: ../meh/handler.py:202
 msgid ""
 "Use 'continue' command to quit the debugger and get back to the main menu"
 msgstr ""
 "Для виходу з режиму діагностики і повернення до головного меню скористайтеся "
 "командою «continue»"
 
-#: ../meh/handler.py:211
+#: ../meh/handler.py:218
 msgid "Exit the shell to get back to the main menu"
 msgstr "Вийти з оболонки і повернутися до головного меню"
 
-#: ../meh/ui/gui.py:176
+#: ../meh/ui/gui.py:39
+#, fuzzy
+#| msgid ""
+#| "This program has encountered an unknown error. You may\n"
+#| "report the bug below or quit the program."
+msgid ""
+"This program has encountered an unknown error. You may report the bug below "
+"or quit the program."
+msgstr ""
+"Під час роботи цієї програми сталася невідома помилка. Ви можете\n"
+"створити сповіщення про ваду нижче або завершити роботу програми."
+
+#: ../meh/ui/gui.py:43
+#, fuzzy
+#| msgid ""
+#| "This program has encountered an unknown error. You may\n"
+#| "report the bug below or quit the program."
+msgid ""
+"This program has encountered an unknown error.\n"
+"You may want to consult the documentation for how to gather logs and report "
+"a bug.\n"
+"Or you can quit the program."
+msgstr ""
+"Під час роботи цієї програми сталася невідома помилка. Ви можете\n"
+"створити сповіщення про ваду нижче або завершити роботу програми."
+
+#: ../meh/ui/gui.py:205
 msgid "_Exit"
 msgstr "_Вийти"
 
 #. short (one-char) answer meaning "yes"
-#: ../meh/ui/text.py:75
+#: ../meh/ui/text.py:82
 msgid "y"
 msgstr "y"
 
 #. short (one-char) answer meaning "no"
-#: ../meh/ui/text.py:78
+#: ../meh/ui/text.py:85
 msgid "n"
 msgstr "n"
 
-#: ../meh/ui/text.py:145
+#: ../meh/ui/text.py:152
 msgid "Save exception"
 msgstr "Зберегти дані виключення"
 
-#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+#: ../meh/ui/text.py:165 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
 msgstr "Сталася невідома помилка"
 
-#: ../meh/ui/text.py:161
-msgid "Report Bug"
-msgstr "Повідомити про ваду"
-
-#: ../meh/ui/text.py:162
+#: ../meh/ui/text.py:168
 msgid "Run shell"
 msgstr "Запустити оболонку"
 
-#: ../meh/ui/text.py:163
+#: ../meh/ui/text.py:169
 msgid "Quit"
 msgstr "Вийти"
 
-#: ../meh/ui/text.py:168
+#: ../meh/ui/text.py:174
 msgid "Debug"
 msgstr "Діагностика"
 
-#: ../meh/ui/text.py:173
+#: ../meh/ui/text.py:178
+msgid "Report Bug"
+msgstr "Повідомити про ваду"
+
+#: ../meh/ui/text.py:183
 msgid "What do you want to do now?"
 msgstr "Що слід зробити?"
 
-#: ../meh/ui/text.py:181
+#: ../meh/ui/text.py:191
 msgid "Please make your choice from above: "
 msgstr "Будь ласка, виберіть ваш варіант на основі наведеного вище: "
 
-#: ../meh/ui/text.py:199
+#: ../meh/ui/text.py:209
 msgid "Hit ENTER to continue"
 msgstr "Натисніть Enter, щоб продовжити"
 
-#: ../meh/ui/text.py:213
+#: ../meh/ui/text.py:223
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "Хочете завершити роботу програми? [%(yes)s (так) або %(no)s (ні)]"
 
 #: tmp/exception-dialog.glade.h:2
-msgid ""
-"This program has encountered an unknown error. You may\n"
-"report the bug below or quit the program."
-msgstr ""
-"Під час роботи цієї програми сталася невідома помилка. Ви можете\n"
-"створити сповіщення про ваду нижче або завершити роботу програми."
-
-#: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
 msgstr "_Повідомити про помилку"
 
-#: tmp/exception-dialog.glade.h:5
+#: tmp/exception-dialog.glade.h:3
 msgid "_Quit"
 msgstr "Ви_йти"
 
-#: tmp/exception-dialog.glade.h:6
+#: tmp/exception-dialog.glade.h:4
 msgid "The output below may help determine the cause of the error:"
 msgstr "Наведені нижче дані можуть допомогти у пошуку причини помилки:"
 
-#: tmp/exception-dialog.glade.h:7
+#: tmp/exception-dialog.glade.h:5
 msgid "'Debug' may take you to tty1."
 msgstr "Команда «Діагностика» може перемкнути ваш термінал на tty1."
 
-#: tmp/exception-dialog.glade.h:8
+#: tmp/exception-dialog.glade.h:6
 msgid "_Debug"
 msgstr "Ді_агностика"
 
-#: tmp/exception-dialog.glade.h:9
+#: tmp/exception-dialog.glade.h:7
 msgid "More _info..."
 msgstr "_Додаткові дані…"
 
-#: tmp/exception-dialog.glade.h:10
+#: tmp/exception-dialog.glade.h:8
 msgid "No additional info available."
 msgstr "Додаткові дані недоступні."

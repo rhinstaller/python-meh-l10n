@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-14 13:41+0200\n"
+"POT-Creation-Date: 2024-06-04 14:54+0200\n"
 "PO-Revision-Date: 2015-01-14 07:16-0500\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: Interlingua (http://www.transifex.com/projects/p/python-meh/"
@@ -21,102 +21,120 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Zanata 4.6.2\n"
 
-#: ../meh/handler.py:195
+#: ../meh/handler.py:202
 msgid ""
 "Use 'continue' command to quit the debugger and get back to the main menu"
 msgstr ""
 
-#: ../meh/handler.py:211
+#: ../meh/handler.py:218
 msgid "Exit the shell to get back to the main menu"
 msgstr ""
 
-#: ../meh/ui/gui.py:176
+#: ../meh/ui/gui.py:39
+#, fuzzy
+#| msgid ""
+#| "This program has encountered an unknown error. You may\n"
+#| "report the bug below or quit the program."
+msgid ""
+"This program has encountered an unknown error. You may report the bug below "
+"or quit the program."
+msgstr ""
+"Iste programma ha incontrate un error incognite. Tu pote\n"
+"reportar le falta in basso o quitar le programma."
+
+#: ../meh/ui/gui.py:43
+#, fuzzy
+#| msgid ""
+#| "This program has encountered an unknown error. You may\n"
+#| "report the bug below or quit the program."
+msgid ""
+"This program has encountered an unknown error.\n"
+"You may want to consult the documentation for how to gather logs and report "
+"a bug.\n"
+"Or you can quit the program."
+msgstr ""
+"Iste programma ha incontrate un error incognite. Tu pote\n"
+"reportar le falta in basso o quitar le programma."
+
+#: ../meh/ui/gui.py:205
 msgid "_Exit"
 msgstr "_Sortir"
 
 #. short (one-char) answer meaning "yes"
-#: ../meh/ui/text.py:75
+#: ../meh/ui/text.py:82
 msgid "y"
 msgstr "s"
 
 #. short (one-char) answer meaning "no"
-#: ../meh/ui/text.py:78
+#: ../meh/ui/text.py:85
 msgid "n"
 msgstr "n"
 
-#: ../meh/ui/text.py:145
+#: ../meh/ui/text.py:152
 msgid "Save exception"
 msgstr "Salvar le exception"
 
-#: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
+#: ../meh/ui/text.py:165 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
 msgstr "Un error incognite ha occurrite"
 
-#: ../meh/ui/text.py:161
-msgid "Report Bug"
-msgstr "Reportar un defecto"
-
-#: ../meh/ui/text.py:162
+#: ../meh/ui/text.py:168
 msgid "Run shell"
 msgstr ""
 
-#: ../meh/ui/text.py:163
+#: ../meh/ui/text.py:169
 msgid "Quit"
 msgstr "Quitar"
 
-#: ../meh/ui/text.py:168
+#: ../meh/ui/text.py:174
 msgid "Debug"
 msgstr "Depurar"
 
-#: ../meh/ui/text.py:173
+#: ../meh/ui/text.py:178
+msgid "Report Bug"
+msgstr "Reportar un defecto"
+
+#: ../meh/ui/text.py:183
 msgid "What do you want to do now?"
 msgstr "Que vole tu facer ora?"
 
-#: ../meh/ui/text.py:181
+#: ../meh/ui/text.py:191
 msgid "Please make your choice from above: "
 msgstr "Selige de supra:"
 
-#: ../meh/ui/text.py:199
+#: ../meh/ui/text.py:209
 msgid "Hit ENTER to continue"
 msgstr "Preme ENTER pro continuar"
 
-#: ../meh/ui/text.py:213
+#: ../meh/ui/text.py:223
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
 msgstr "Es tu secur de voler sortir? [%(yes)s/%(no)s]"
 
 #: tmp/exception-dialog.glade.h:2
-msgid ""
-"This program has encountered an unknown error. You may\n"
-"report the bug below or quit the program."
-msgstr ""
-"Iste programma ha incontrate un error incognite. Tu pote\n"
-"reportar le falta in basso o quitar le programma."
-
-#: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
 msgstr "_Reportar un defecto"
 
-#: tmp/exception-dialog.glade.h:5
+#: tmp/exception-dialog.glade.h:3
 msgid "_Quit"
 msgstr "_Quitar"
 
-#: tmp/exception-dialog.glade.h:6
+#: tmp/exception-dialog.glade.h:4
 msgid "The output below may help determine the cause of the error:"
 msgstr "Le information sequente pote adjutar a determinar le cause del error:"
 
-#: tmp/exception-dialog.glade.h:7
+#: tmp/exception-dialog.glade.h:5
 msgid "'Debug' may take you to tty1."
 msgstr "'Depurar' pote cambiar le connexion a tty1"
 
-#: tmp/exception-dialog.glade.h:8
+#: tmp/exception-dialog.glade.h:6
 msgid "_Debug"
 msgstr "_Depurar"
 
-#: tmp/exception-dialog.glade.h:9
+#: tmp/exception-dialog.glade.h:7
 msgid "More _info..."
 msgstr "Plus de _information..."
 
-#: tmp/exception-dialog.glade.h:10
+#: tmp/exception-dialog.glade.h:8
 msgid "No additional info available."
 msgstr "Necun information additional disponibile."
