@@ -5,23 +5,23 @@
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011
 # Maxim Dziumanenko <dziumanenko@gmail.com>, 2010
-# Yuri Chornoivan <yurchor@ukr.net>, 2012-2014
+# Yuri Chornoivan <yurchor@ukr.net>, 2012-2014, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2015-01-14 07:17-0500\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Ukrainian (http://www.transifex.com/projects/p/python-meh/"
-"language/uk/)\n"
+"PO-Revision-Date: 2024-12-25 08:38+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
+"python-meh/master/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -35,30 +35,24 @@ msgid "Exit the shell to get back to the main menu"
 msgstr "Вийти з оболонки і повернутися до головного меню"
 
 #: ../meh/ui/gui.py:39
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
 msgstr ""
-"Під час роботи цієї програми сталася невідома помилка. Ви можете\n"
-"створити сповіщення про ваду нижче або завершити роботу програми."
+"Під час роботи цієї програми сталася невідома помилка. Ви можете створити "
+"сповіщення про ваду нижче або завершити роботу програми."
 
 #: ../meh/ui/gui.py:43
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error.\n"
 "You may want to consult the documentation for how to gather logs and report "
 "a bug.\n"
 "Or you can quit the program."
 msgstr ""
-"Під час роботи цієї програми сталася невідома помилка. Ви можете\n"
-"створити сповіщення про ваду нижче або завершити роботу програми."
+"Під час роботи цієї програми сталася невідома помилка.\n"
+"Ви можете звернутися до документації щодо того, як зібрати дані журналу і "
+"створити сповіщення про ваду.\n"
+"Або можете завершити роботу програми."
 
 #: ../meh/ui/gui.py:205
 msgid "_Exit"
