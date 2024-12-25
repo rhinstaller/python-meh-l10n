@@ -7,22 +7,22 @@
 # eukim <eukim@redhat.com>, 2009
 # Ludek Janda <ljanda@redhat.com>, 2018. #zanata
 # simmon <simmon@nplob.com>, 2021.
-# 김인수 <simmon@nplob.com>, 2022.
+# 김인수 <simmon@nplob.com>, 2022, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2022-11-14 09:19+0000\n"
+"PO-Revision-Date: 2024-12-25 08:38+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
-"Language-Team: Korean <https://translate.fedoraproject.org/projects/python-"
-"meh/master/ko/>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"python-meh/master/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -34,30 +34,23 @@ msgid "Exit the shell to get back to the main menu"
 msgstr "쉘을 종료하고 메인 메뉴로 돌아갑니다"
 
 #: ../meh/ui/gui.py:39
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
-msgstr ""
-"프로그램에서 알 수 없는 오류가 발생했습니다. 다음의 결점을 보고하거나\n"
+msgstr "프로그램에서 알 수 없는 오류가 발생했습니다. 다음의 결점을 보고하거나 "
 "프로그램을 종료 할 수 있습니다."
 
 #: ../meh/ui/gui.py:43
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error.\n"
 "You may want to consult the documentation for how to gather logs and report "
 "a bug.\n"
 "Or you can quit the program."
 msgstr ""
-"프로그램에서 알 수 없는 오류가 발생했습니다. 다음의 결점을 보고하거나\n"
-"프로그램을 종료 할 수 있습니다."
+"프로그램에서 알 수 없는 오류가 발생했습니다. \n"
+"당신은 기록을 수집하는 방법 및 결점을 보고하기 위해 문서를 참조하는 것이 "
+"좋습니다.\n"
+"또는 프로그램을 종료 할 수 있습니다."
 
 #: ../meh/ui/gui.py:205
 msgid "_Exit"
