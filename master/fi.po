@@ -8,22 +8,22 @@
 # Juhani Numminen <juhaninumminen0@gmail.com>, 2016. #zanata
 # Toni Rantala <trantalafilo@gmail.com>, 2017. #zanata
 # Jiri Grönroos <jiri.gronroos@iki.fi>, 2018. #zanata
-# Ricky Tigg <ricky.tigg@gmail.com>, 2020.
+# Ricky Tigg <ricky.tigg@gmail.com>, 2020, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2020-12-09 14:36+0000\n"
+"PO-Revision-Date: 2025-01-11 15:38+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
-"Language-Team: Finnish <https://translate.fedoraproject.org/projects/python-"
-"meh/master/fi/>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"python-meh/master/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -36,30 +36,24 @@ msgid "Exit the shell to get back to the main menu"
 msgstr "Poistu komentotulkista palataksesi päävalikkoon"
 
 #: ../meh/ui/gui.py:39
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
 msgstr ""
-"Ohjelma on kohdannut tuntemattoman ongelman. Voit ilmoittaa\n"
-"ohjelmavirheestä alta tai sulkea ohjelman."
+"Ohjelma on kohdannut tuntemattoman virheen. Voit ilmoittaa viasta alta tai "
+"sulkea ohjelman."
 
 #: ../meh/ui/gui.py:43
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error.\n"
 "You may want to consult the documentation for how to gather logs and report "
 "a bug.\n"
 "Or you can quit the program."
 msgstr ""
-"Ohjelma on kohdannut tuntemattoman ongelman. Voit ilmoittaa\n"
-"ohjelmavirheestä alta tai sulkea ohjelman."
+"Tämä ohjelma on kohdannut tuntemattoman virheen.\n"
+"Voit halutessasi tutustua dokumentaatioon lokien keräämiseen ja vian "
+"ilmoittamiseen.\n"
+"Tai voit lopettaa ohjelman."
 
 #: ../meh/ui/gui.py:205
 msgid "_Exit"
