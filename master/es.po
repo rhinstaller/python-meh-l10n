@@ -10,13 +10,14 @@
 # vareli <ehespinosa@ya.com>, 2013
 # Máximo Castañeda Riloba <mcrcctm@gmail.com>, 2015. #zanata
 # N M <nm@users.noreply.translate.fedoraproject.org>, 2025.
+# Javier Francisco <fserrador@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2025-02-04 16:38+0000\n"
-"Last-Translator: N M <nm@users.noreply.translate.fedoraproject.org>\n"
+"PO-Revision-Date: 2025-04-04 17:53+0000\n"
+"Last-Translator: Javier Francisco <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "python-meh/master/es/>\n"
 "Language: es\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -41,7 +42,7 @@ msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
 msgstr ""
-"Este programa ha encontrado un error desconocido. Puede informar el error "
+"Este programa ha encontrado un error desconocido. Puede informar el defecto "
 "más abajo o salir del programa."
 
 #: ../meh/ui/gui.py:43
@@ -100,7 +101,7 @@ msgstr "¿Qué desea hacer ahora?"
 
 #: ../meh/ui/text.py:191
 msgid "Please make your choice from above: "
-msgstr "Por favor, elija algo de arriba:"
+msgstr "Por favor, elija algo de arriba: "
 
 #: ../meh/ui/text.py:209
 msgid "Hit ENTER to continue"
@@ -109,11 +110,11 @@ msgstr "Presione Intro para continuar"
 #: ../meh/ui/text.py:223
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
-msgstr "¿Está seguro de que quiere salir? [%(yes)s/%(no)s]"
+msgstr "¿Está seguro que quiere salir? [%(yes)s/%(no)s]"
 
 #: tmp/exception-dialog.glade.h:2
 msgid "_Report Bug"
-msgstr "Informar _error"
+msgstr "Informa_r defecto"
 
 #: tmp/exception-dialog.glade.h:3
 msgid "_Quit"
@@ -135,7 +136,7 @@ msgstr "_Depurar"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "More _info..."
-msgstr "Más _información..."
+msgstr "Más _información…"
 
 #: tmp/exception-dialog.glade.h:8
 msgid "No additional info available."
