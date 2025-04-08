@@ -8,21 +8,22 @@
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Walter Cheuk <wwycheuk@gmail.com>, 2012
 # Cheng-Chia Tseng <pswo10680@gmail.com>, 2017. #zanata
+# hsu zangmen <chzang55@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2018-08-23 06:24-0400\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/python-"
-"meh/language/zh_TW/)\n"
+"PO-Revision-Date: 2025-04-08 19:20+0000\n"
+"Last-Translator: hsu zangmen <chzang55@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://translate.fedoraproject.org/"
+"projects/python-meh/master/zh_TW/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -34,30 +35,21 @@ msgid "Exit the shell to get back to the main menu"
 msgstr "離開 shell 回到主選單"
 
 #: ../meh/ui/gui.py:39
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
-msgstr ""
-"此程式遭遇未知錯誤。您可以在下方回報\n"
-"臭蟲或退出程式。"
+msgstr "本程式遇到未知錯誤。 您可以在下面報告錯誤或退出程式。"
 
 #: ../meh/ui/gui.py:43
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error.\n"
 "You may want to consult the documentation for how to gather logs and report "
 "a bug.\n"
 "Or you can quit the program."
 msgstr ""
-"此程式遭遇未知錯誤。您可以在下方回報\n"
-"臭蟲或退出程式。"
+"該程式遇到了未知錯誤。\n"
+"您可能需要查閱文件以了解如何收集記錄檔和報告錯誤。\n"
+"或者您可以退出該程式。"
 
 #: ../meh/ui/gui.py:205
 msgid "_Exit"
@@ -103,7 +95,7 @@ msgstr "您現在想怎麼做？"
 
 #: ../meh/ui/text.py:191
 msgid "Please make your choice from above: "
-msgstr "請從上列做出您的選擇："
+msgstr "請從上列做出您的選擇： "
 
 #: ../meh/ui/text.py:209
 msgid "Hit ENTER to continue"
