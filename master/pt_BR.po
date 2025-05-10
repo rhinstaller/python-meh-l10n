@@ -8,21 +8,22 @@
 # Marcelo Barbosa <firemanxbr@fedoraproject.org>, 2014
 # Marina Vieira <djparanoiaprod@gmail.com>, 2012
 # Daniel Lara <danniel@fedoraproject.org>, 2016. #zanata
+# Rafael Fontenelle <rafaelff@gnome.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2018-08-23 06:24-0400\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
-"python-meh/language/pt_BR/)\n"
+"PO-Revision-Date: 2025-05-10 21:34+0000\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
+"projects/python-meh/master/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.3\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -35,30 +36,24 @@ msgid "Exit the shell to get back to the main menu"
 msgstr "Sair do shell para voltar ao menu principal"
 
 #: ../meh/ui/gui.py:39
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
 msgstr ""
-"Este programa encontrou um erro desconhecido. você pode\n"
-"reportar o bug abaixo ou sair do programa."
+"Este programa encontrou um erro desconhecido. você pode reportar o bug "
+"abaixo ou sair do programa."
 
 #: ../meh/ui/gui.py:43
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error.\n"
 "You may want to consult the documentation for how to gather logs and report "
 "a bug.\n"
 "Or you can quit the program."
 msgstr ""
-"Este programa encontrou um erro desconhecido. você pode\n"
-"reportar o bug abaixo ou sair do programa."
+"Este programa encontrou um erro desconhecido.\n"
+"Você pode consultar a documentação para saber como coletar logs e reportar "
+"um bug.\n"
+"Ou você pode sair do programa."
 
 #: ../meh/ui/gui.py:205
 msgid "_Exit"
