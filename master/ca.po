@@ -7,13 +7,14 @@
 # Oscar Osta <oostap@gmail.com>, 2009
 # Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2015. #zanata
 # David Medina <dmedinacpnl@gmail.com>, 2025.
+# naly zzwd <xeanhort007@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2025-02-16 04:56+0000\n"
-"Last-Translator: David Medina <dmedinacpnl@gmail.com>\n"
+"PO-Revision-Date: 2025-12-15 07:35+0000\n"
+"Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "python-meh/master/ca/>\n"
 "Language: ca\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -98,7 +99,7 @@ msgstr "Què voleu fer ara?"
 
 #: ../meh/ui/text.py:191
 msgid "Please make your choice from above: "
-msgstr "Feu la vostra selecció de les següents opcions:"
+msgstr "Feu la vostra selecció de les següents opcions: "
 
 #: ../meh/ui/text.py:209
 msgid "Hit ENTER to continue"
@@ -115,7 +116,7 @@ msgstr "Info_rma de l'error de programari"
 
 #: tmp/exception-dialog.glade.h:3
 msgid "_Quit"
-msgstr "_Surt"
+msgstr "_Tanca"
 
 #: tmp/exception-dialog.glade.h:4
 msgid "The output below may help determine the cause of the error:"
