@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2026.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-10 20:38+0100\n"
 "PO-Revision-Date: 2026-01-17 11:58+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/python-"
 "meh/rhel-8/ka/>\n"
 "Language: ka\n"
@@ -43,7 +43,7 @@ msgstr "n"
 
 #: ../meh/ui/text.py:145
 msgid "Save exception"
-msgstr ""
+msgstr "გამონაკლისის შენახვა"
 
 #: ../meh/ui/text.py:158 tmp/exception-dialog.glade.h:1
 msgid "An unknown error has occurred"
@@ -100,7 +100,7 @@ msgstr "_შეცდომის გადაგზავნა"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
-msgstr "_გასვლა"
+msgstr "გ_ასვლა"
 
 #: tmp/exception-dialog.glade.h:6
 msgid "The output below may help determine the cause of the error:"
@@ -109,7 +109,7 @@ msgstr ""
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr "'გამართვა'-ს შეუძლიათ tty1-ზე გადაგიყვანოთ."
+msgstr "'გამართვას' შეუძლია, tty1-ზე გადაგიყვანოთ."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
@@ -121,4 +121,4 @@ msgstr ""
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr ""
+msgstr "დამატებითი ინფორმაცია ხელმისაწვდომი არაა."
