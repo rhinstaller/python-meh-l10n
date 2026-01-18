@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2026.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
+# Luna Jernberg <droidbittin@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 14:48+0200\n"
 "PO-Revision-Date: 2026-01-19 10:58+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Luna Jernberg <droidbittin@gmail.com>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/python-"
 "meh/rhel-7/sv/>\n"
 "Language: sv\n"
@@ -28,7 +28,7 @@ msgstr "j"
 #. short (one-char) answer meaning "no"
 #: ../meh/ui/text.py:73
 msgid "n"
-msgstr ""
+msgstr "n"
 
 #: ../meh/ui/text.py:140
 msgid "Save exception"
@@ -60,16 +60,16 @@ msgstr "Gör ett val från ovan: "
 
 #: ../meh/ui/text.py:189
 msgid "Hit ENTER to continue"
-msgstr ""
+msgstr "Tryck ENTER för att fortsätta"
 
 #: ../meh/ui/text.py:203
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
-msgstr ""
+msgstr "Är du säker på att du vill avsluta? [%(yes)s/%(no)s]"
 
 #: ../meh/ui/gui.py:150
 msgid "_Exit"
-msgstr ""
+msgstr "_Avsluta"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
@@ -93,7 +93,7 @@ msgstr "Utdata nedan kan hjälpa till att avgöra orsaken till felet:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr "”Debug” kan ta dig till tty1."
+msgstr "”Felsök” kan ta dig till tty1."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
@@ -105,4 +105,4 @@ msgstr ""
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr ""
+msgstr "Ingen ytterligare information tillgänglig."
