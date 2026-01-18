@@ -9,21 +9,22 @@
 # Göran Uddeborg <goeran@uddeborg.se>, 2015. #zanata
 # Luna Jernberg <bittin@reimu.nl>, 2020.
 # Anders Jonsson <anders.jonsson@norsjovallen.se>, 2021.
+# Luna Jernberg <droidbittin@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-14 13:47+0200\n"
-"PO-Revision-Date: 2021-07-01 13:04+0000\n"
-"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
+"PO-Revision-Date: 2026-01-19 10:58+0000\n"
+"Last-Translator: Luna Jernberg <droidbittin@gmail.com>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/python-"
-"meh/master/sv/>\n"
+"meh/rhel-9/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: ../meh/handler.py:195
 msgid ""
@@ -38,7 +39,7 @@ msgstr "Avsluta skalet för att gå tillbaka till huvudmenyn"
 
 #: ../meh/ui/gui.py:176
 msgid "_Exit"
-msgstr "_Avbryt"
+msgstr "_Avsluta"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:75
@@ -84,12 +85,12 @@ msgstr "Gör ett val från ovan: "
 
 #: ../meh/ui/text.py:199
 msgid "Hit ENTER to continue"
-msgstr "Tryck RETUR för att fortsätta"
+msgstr "Tryck ENTER för att fortsätta"
 
 #: ../meh/ui/text.py:213
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
-msgstr "Är du säker på att du vill avbryta? [%(yes)s/%(no)s]"
+msgstr "Är du säker på att du vill avsluta? [%(yes)s/%(no)s]"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
@@ -113,7 +114,7 @@ msgstr "Utdata nedan kan hjälpa till att avgöra orsaken till felet:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr "”Debug” kan ta dig till tty1."
+msgstr "”Felsök” kan ta dig till tty1."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
