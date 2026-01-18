@@ -10,7 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 14:48+0200\n"
 "PO-Revision-Date: 2026-01-19 10:58+0000\n"
-"Last-Translator: Luna Jernberg <droidbittin@gmail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/python-"
 "meh/rhel-7/sv/>\n"
 "Language: sv\n"
@@ -97,11 +98,11 @@ msgstr "”Felsök” kan ta dig till tty1."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
-msgstr ""
+msgstr "_Felsök"
 
 #: tmp/exception-dialog.glade.h:9
 msgid "More _info..."
-msgstr ""
+msgstr "Mer _information …"
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
