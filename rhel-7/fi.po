@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2026.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
+# Jan Kuparinen <copper_fin@hotmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 14:48+0200\n"
 "PO-Revision-Date: 2026-01-23 19:58+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Jan Kuparinen <copper_fin@hotmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/python-"
 "meh/rhel-7/fi/>\n"
 "Language: fi\n"
@@ -23,12 +23,12 @@ msgstr ""
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:70
 msgid "y"
-msgstr ""
+msgstr "k"
 
 #. short (one-char) answer meaning "no"
 #: ../meh/ui/text.py:73
 msgid "n"
-msgstr ""
+msgstr "e"
 
 #: ../meh/ui/text.py:140
 msgid "Save exception"
@@ -81,7 +81,7 @@ msgstr ""
 
 #: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
-msgstr "Ilmoita ohjelmavirheestä"
+msgstr "_Ilmoita ohjelmavirheestä"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
@@ -105,4 +105,4 @@ msgstr ""
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr ""
+msgstr "Lisätietoja ei ole saatavilla."
