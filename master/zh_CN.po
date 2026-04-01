@@ -11,13 +11,14 @@
 # zhouxiaobo <zhouxiaobo.500@gmail.com>, 2015. #zanata
 # Leah Liu <lliu@redhat.com>, 2016. #zanata
 # Ludek Janda <ljanda@redhat.com>, 2021.
+# 耗子 <haozi@loli.email>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2021-09-14 08:04+0000\n"
-"Last-Translator: Ludek Janda <ljanda@redhat.com>\n"
+"PO-Revision-Date: 2026-04-02 23:58+0000\n"
+"Last-Translator: 耗子 <haozi@loli.email>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
 "projects/python-meh/master/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -37,30 +38,21 @@ msgid "Exit the shell to get back to the main menu"
 msgstr "退出 shell 返回主菜单"
 
 #: ../meh/ui/gui.py:39
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
-msgstr ""
-"程序遇到了一个未知错误。您可能\n"
-"需要报告下面的这个 bug 或者退出程序。"
+msgstr "此程序遇到了未知错误。您可以在下方报告此缺陷或退出程序。"
 
 #: ../meh/ui/gui.py:43
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error.\n"
 "You may want to consult the documentation for how to gather logs and report "
 "a bug.\n"
 "Or you can quit the program."
 msgstr ""
-"程序遇到了一个未知错误。您可能\n"
-"需要报告下面的这个 bug 或者退出程序。"
+"此程序遇到了未知错误。\n"
+"您可以查阅文档了解如何收集日志并报告缺陷。\n"
+"或者您可以退出程序。"
 
 #: ../meh/ui/gui.py:205
 msgid "_Exit"
