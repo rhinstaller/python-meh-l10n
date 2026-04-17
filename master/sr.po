@@ -6,13 +6,14 @@
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Momcilo Medic <medicmomcilo@gmail.com>, 2014
 # Medic Momcilo <momcilo@medic.rs>, 2023.
+# "Марко Костић (Marko Kostić)" <marko.m.kostic@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-04 14:54+0200\n"
-"PO-Revision-Date: 2023-11-04 18:48+0000\n"
-"Last-Translator: Medic Momcilo <momcilo@medic.rs>\n"
+"PO-Revision-Date: 2026-04-18 04:35+0000\n"
+"Last-Translator: \"Марко Костић (Marko Kostić)\" <marko.m.kostic@gmail.com>\n"
 "Language-Team: Serbian <https://translate.fedoraproject.org/projects/python-"
 "meh/master/sr/>\n"
 "Language: sr\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.1.1\n"
+"X-Generator: Weblate 5.17\n"
 
 #: ../meh/handler.py:202
 msgid ""
@@ -35,30 +36,24 @@ msgid "Exit the shell to get back to the main menu"
 msgstr "Изађите из љуске да се вратите у главни мени"
 
 #: ../meh/ui/gui.py:39
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error. You may report the bug below "
 "or quit the program."
 msgstr ""
-"Овом програму се догодила непозната грешка. Можете\n"
-"пријавити бубу испод или напустити програм."
+"Овом програму се догодила непозната грешка. Можете пријавити бубу испод или "
+"напустити програм."
 
 #: ../meh/ui/gui.py:43
-#, fuzzy
-#| msgid ""
-#| "This program has encountered an unknown error. You may\n"
-#| "report the bug below or quit the program."
 msgid ""
 "This program has encountered an unknown error.\n"
 "You may want to consult the documentation for how to gather logs and report "
 "a bug.\n"
 "Or you can quit the program."
 msgstr ""
-"Овом програму се догодила непозната грешка. Можете\n"
-"пријавити бубу испод или напустити програм."
+"Овом програму се догодила непозната грешка.\n"
+"Погледајте документацију да бисте видели како да прикупите дневнике за "
+"пријаву грешке.\n"
+"Или можете изаћи из програма."
 
 #: ../meh/ui/gui.py:205
 msgid "_Exit"
@@ -117,7 +112,7 @@ msgstr "Да ли сте сигурни да желите изаћи? [%(yes)s/%
 
 #: tmp/exception-dialog.glade.h:2
 msgid "_Report Bug"
-msgstr "_Пријави бубу"
+msgstr "П_ријави бубу"
 
 #: tmp/exception-dialog.glade.h:3
 msgid "_Quit"
