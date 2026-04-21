@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-14 13:47+0200\n"
-"PO-Revision-Date: 2026-04-18 04:35+0000\n"
+"PO-Revision-Date: 2026-04-22 14:59+0000\n"
 "Last-Translator: \"Марко Костић (Marko Kostić)\" <marko.m.kostic@gmail.com>\n"
 "Language-Team: Serbian <https://translate.fedoraproject.org/projects/python-"
 "meh/rhel-9/sr/>\n"
@@ -37,7 +37,7 @@ msgstr "Изађите из љуске да се вратите у главни 
 
 #: ../meh/ui/gui.py:176
 msgid "_Exit"
-msgstr "_Излаз"
+msgstr "_Изађи"
 
 #. short (one-char) answer meaning "yes"
 #: ../meh/ui/text.py:75
@@ -75,53 +75,53 @@ msgstr "Отклони бубе"
 
 #: ../meh/ui/text.py:173
 msgid "What do you want to do now?"
-msgstr "Шта желите да урадите сада?"
+msgstr "Шта желите сада да урадите?"
 
 #: ../meh/ui/text.py:181
 msgid "Please make your choice from above: "
-msgstr "Молим изаберите нешто од горе понуђених опција: "
+msgstr "Направите ваш избор изнад: "
 
 #: ../meh/ui/text.py:199
 msgid "Hit ENTER to continue"
-msgstr "Притисните ENTER да наставите"
+msgstr "Притисните УНЕСИ за наставак"
 
 #: ../meh/ui/text.py:213
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
-msgstr "Да ли сте сигурни да желите изаћи? [%(yes)s/%(no)s]"
+msgstr "Да ли сте сигурни да желите да изађете? [%(yes)s/%(no)s]"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
 "This program has encountered an unknown error. You may\n"
 "report the bug below or quit the program."
 msgstr ""
-"Овом програму се догодила непозната грешка. Можете\n"
-"пријавити бубу испод или напустити програм."
+"Овај програм је наишао на непознату грешку. Можете\n"
+"пријавити грешку испод или изаћи из програма."
 
 #: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
-msgstr "П_ријави бубу"
+msgstr "_Пријави грешку"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
-msgstr "_Изађи"
+msgstr "И_зађи"
 
 #: tmp/exception-dialog.glade.h:6
 msgid "The output below may help determine the cause of the error:"
-msgstr "Овај испис може бити од помоћи да се установи разлог грешке:"
+msgstr "Излаз испод може помоћи у одређивању узрока грешке:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr "'Отклони бубе' може да вас одведе на tty1."
+msgstr "„Debug“ вас може одвести на tty1."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
-msgstr "_Отклони бубе"
+msgstr "_Уклањање грешака"
 
 #: tmp/exception-dialog.glade.h:9
 msgid "More _info..."
-msgstr "Више _информација..."
+msgstr "Више _података..."
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr "Нема додатних информација."
+msgstr "Нема доступних додатних података."
