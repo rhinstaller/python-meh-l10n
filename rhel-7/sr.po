@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 14:48+0200\n"
-"PO-Revision-Date: 2026-04-18 04:35+0000\n"
+"PO-Revision-Date: 2026-04-22 14:59+0000\n"
 "Last-Translator: \"Марко Костић (Marko Kostić)\" <marko.m.kostic@gmail.com>\n"
 "Language-Team: Serbian <https://translate.fedoraproject.org/projects/python-"
 "meh/rhel-7/sr/>\n"
@@ -48,59 +48,61 @@ msgstr "Отклони бубе"
 
 #: ../meh/ui/text.py:158
 msgid "Quit"
-msgstr ""
+msgstr "Изађи"
 
 #: ../meh/ui/text.py:163
 msgid "What do you want to do now?"
-msgstr "Шта желите да урадите сада?"
+msgstr "Шта желите сада да урадите?"
 
 #: ../meh/ui/text.py:171
 msgid "Please make your choice from above: "
-msgstr "Молим изаберите нешто од горе понуђених опција: "
+msgstr "Направите ваш избор изнад: "
 
 #: ../meh/ui/text.py:189
 msgid "Hit ENTER to continue"
-msgstr ""
+msgstr "Притисните УНЕСИ за наставак"
 
 #: ../meh/ui/text.py:203
 #, python-format
 msgid "Are you sure you want to exit? [%(yes)s/%(no)s]"
-msgstr "Да ли сте сигурни да желите изаћи? [%(yes)s/%(no)s]"
+msgstr "Да ли сте сигурни да желите да изађете? [%(yes)s/%(no)s]"
 
 #: ../meh/ui/gui.py:150
 msgid "_Exit"
-msgstr ""
+msgstr "_Изађи"
 
 #: tmp/exception-dialog.glade.h:2
 msgid ""
 "This program has encountered an unknown error. You may\n"
 "report the bug below or quit the program."
 msgstr ""
+"Овај програм је наишао на непознату грешку. Можете\n"
+"пријавити грешку испод или изаћи из програма."
 
 #: tmp/exception-dialog.glade.h:4
 msgid "_Report Bug"
-msgstr "П_ријави бубу"
+msgstr "_Пријави грешку"
 
 #: tmp/exception-dialog.glade.h:5
 msgid "_Quit"
-msgstr ""
+msgstr "И_зађи"
 
 #: tmp/exception-dialog.glade.h:6
 msgid "The output below may help determine the cause of the error:"
-msgstr ""
+msgstr "Излаз испод може помоћи у одређивању узрока грешке:"
 
 #: tmp/exception-dialog.glade.h:7
 msgid "'Debug' may take you to tty1."
-msgstr ""
+msgstr "„Debug“ вас може одвести на tty1."
 
 #: tmp/exception-dialog.glade.h:8
 msgid "_Debug"
-msgstr ""
+msgstr "_Уклањање грешака"
 
 #: tmp/exception-dialog.glade.h:9
 msgid "More _info..."
-msgstr ""
+msgstr "Више _података..."
 
 #: tmp/exception-dialog.glade.h:10
 msgid "No additional info available."
-msgstr ""
+msgstr "Нема доступних додатних података."
